@@ -7,8 +7,8 @@ def find_and_save_uhids_not_in_excel(dir_path, excel_path, output_file_path):
     uhid_list = [name for name in os.listdir(dir_path) if os.path.isdir(os.path.join(dir_path, name))]
     
     # Print the list of UHIDs from the directory
-    print("UHID list from directory:")
-    print(uhid_list)
+    # print("UHID list from directory:")
+    # print(uhid_list)
     
     # Load the Excel file
     df = pd.read_excel(excel_path)
@@ -32,9 +32,9 @@ def find_and_save_uhids_not_in_excel(dir_path, excel_path, output_file_path):
     excel_uhid_set = set(df['Patient ID (UHID)'].astype(str))
     not_in_excel_uhids = list(uhid_set - excel_uhid_set)
     
-    # Print the UHIDs not in Excel file
-    print("UHIDs not in Excel file:")
-    print(not_in_excel_uhids)
+    # # Print the UHIDs not in Excel file
+    # print("UHIDs not in Excel file:")
+    # print(not_in_excel_uhids)
     
     # Save the UHIDs not in Excel file to a new Excel file
     not_in_excel_df = pd.DataFrame(not_in_excel_uhids, columns=['Patient ID (UHID)'])
