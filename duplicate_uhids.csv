@@ -1,0 +1,1076 @@
+S No,Patient ID (UHID),Age,Gender,Slice Thickness (in mm),Unnamed: 5,Unnamed: 6,Date of Acquisition,Data Obtained from,Unnamed: 9,Name of Protocol,Name of Manufacture,Features,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Injury Details,Unnamed: 21,Unnamed: 22,Pathology,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Admission GCS,Unnamed: 29,Unnamed: 30,Unnamed: 31,Discharge GCS,Unnamed: 33,Unnamed: 34,Unnamed: 35,Analyst Assessment,Radiologist Diagnosis,Pathology Status,Pathologies/Keywords Identified,Bleed Only Status,Bleed Sub-Category,Major abnormality
+53.0,500261575,2,M,1.0,1.0,0,2021-01-23 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,"No trauma related injury.
+",Normal,,No,,
+115.0,500261529,71,M,1.0,1.0,0,2021-01-24 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,0,1,0,0,0,0,"Hemorrhagic- Contusion in high frontal region,
+Contusion in Anterior temporal region, 
+Contusion in Basifrontal,
+Contusion Sylvian fissure.
+Bleed- Extra axial in frontal region,
+posterior horns of lateral ventricles,
+interpenducular cistern.
+SAH in frontal region. 
+SDH in frontal region.
+Midline shift.
+","Hemorrhagic- Contusion: Left high frontal region,
+Contusion: Right  Anterior temporal region, 
+Contusion: Right Basifrontal,
+Contusion: Left Sylvian fissure.
+Bleed- Extra axial: Left frontal region, with max depth 5mm
+posterior horns of bilateral lateral ventricles,
+SAH: Left frontal region. 
+SDH: Left frontal region.
+Midline shift- Right","Hemorrhagic- Contusion: Left high frontal region= 26x16x3 mm
+Midline shift= 2.5 mm
+Bleed- Extra axial= 5mm",1,0,0,0,0,,,,,,,,,,"There is evidence of hemorrahgic contusion in left high frontal region with mild surrounding edema , m/s ~2.6x1.6x3cms in size.
+Few small hemorrhagic contusions seen in right anterior temporal , right basifrontal and around left sylvian fissure.
+Extra axial bleed density is seen in left frontal region with max depth 5mm.
+Bleed density is also seen in posterior horns of bilateral lateral ventricles and interpenducular cistern.
+minimal SAH seen in left frontal region.
+Mass effect in the form of midline shift of 2.5mm to right.
+Hemorrhagic contusions, SAH, SDH (along left frontal region) with IVH as descibed.
+
+Consolidation with lucencies in anterior (RUL) and lateral segment of RML, ? contusion with laceration.
+Hyperdense extrapleural collection with air foci seen in right pleural cavity (along RUL and RML) with evidence of linear hyperdensity seen within the collection which is increased on delayed scan,- hemothorax with active bleed, likely from intercostal arteries.
+Left clavicle, left scapula and bilateral rib fracture as described.",Abnormal,"edema, hemorrhage, tempor, bleed, ventricle, sah, sdh, lacer, rib, fracture",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion
+131.0,500261564,70,M,1.0,1.0,0,2021-01-24 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,1,1,1,0,0,0,0,"Bleed- SDH in FPT lobe with subfalcine herniation,
+SAH in frontal, occipital, parietal, temporal lobes.
+SDH in tentorium.
+Hemorrhage- Contusion in frontal and temporal lobes.
+Fracture- Cribriform plate, 
+anterior wall of maxillary sinus, 
+medial walls of maxillary sinuses, 
+rzygomatic bone,
+floor of orbit,
+mandibular condyle. 
+Midline shift.","Bleed- SDH: Right FPT lobe,
+SAH in bilateral frontal, bilateral occipital,right parietal,right temporal lobes.
+SDH: Right tentorium.
+Hemorrhage- Contusion in both frontal and both temporal lobes.
+Fracture- Left Cribriform plate, 
+anterior wall of right maxillary sinus, 
+medial walls of both maxillary sinuses, 
+right zygomatic bone,
+left mandibular condyle. ",Midline shift= 16 mm,1,0,0,0,0,,,,,,,,,,"* SDH along right fronto-parieto-temporal lobe measuring 1.6 cm in maximum thickness causing midline shift (1.6 cm) and subfalcine herniation.
+* SAH in bilateral frontal, occipital and right parietal and temporal lobes.
+* Multiple intraparenchymal hemorrhagic contusions seen in both frontal and temporal lobes with surrrounding edema. Obliteration of cistern spaces.
+* SDH along right tentorium.
+* Fracture of left cribriform plate, anterior wall of right maxillary sinus, medial walls of both maxillary sinuses and right zygomatic bone and floor of right orbit.
+* Fracture of left mandibular condyle.
+* Fracture of right clavicle. Single point fracture of right 2,3,5 ribs and two point fracture of right 4th rib.
+* multifocal areas of consolidations are seen in right lung (lower lobe) likely infective advise repeat COVID Test
+* Partial thrombosis of left subclavian artery is seen (first part),causing ~50%luminal narrowing.",Abnormal,"sdh, lobe, hernias, sah, pariet, tempor, hemorrhage, edema, fracture, sinus, bone, rib, lung",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion
+134.0,105300161,48,M,1.0,1.0,0,2021-01-25 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,0,0,0,"Stroke- Focal in parietal lobe, thalamus and internal capsule.","Stroke- Left parietal lobe, 
+Left thalamus",0,0,1,0,0,0,,,,,,,,,,"Multiple focal stroke in left parietal lobe, left thalamus and internal capsule which were seen in previous MRI also dated 13/01/21.
+No intracranial bleed.",Abnormal,"focal, pariet, lobe, bleed",No,,
+140.0,500261607,30,M,1.0,1.0,0,2021-01-25 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,1,0,0,0,"Edema- Perilisional occipital region. 
+Fracture- Zygomatic arch
+Calcification.","Edema- Left occipital region
+Fracture- Right zygomatic arch",Calcification= 3 mm,1,0,0,0,0,,,,,,,,,,"A calcified granuloma measuring 3mm with no perilesional edema seen in left occipital region.
+Fracture of right zygomatic arch",Abnormal,"granuloma, edema, fracture",No,,Fracture
+147.0,105306661,21,M,1.0,1.0,0,2021-01-25 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,1,1,0,Hydrocephalus- Lateral Ventricle,Hydrocephalus- Right side,0,0,1,1,0,0,,,,,,,,,,Moderate hydrocephalus with periventricular ooze in right lateral ventricle,Abnormal,"hydrocephalus, ventricle",No,, hydrocephalus
+166.0,105290118,24,M,1.0,1.0,0,2021-01-25 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,0,1,1,0,1,1,0,"Bleed- Centrum Semiovale
+Oedema- FPT
+Hydrocephalus- Mild","Bleed- Left
+Modline- Right",Midline- 8mm ,0,0,1,0,1,1,0,0,,0,0,0,0,,"Intraparenchymal bleed in left centrum semiovale with mass effect and edema in fronto-parieto-temporal white matter causing mid line shift on right side.
+Midline shift of 8 mm on right side.
+Mild hydrocephalus with periventricular oozes.",Abnormal,"bleed, edema, hydrocephalus",No,,Midline shift
+169.0,500261731,25,M,1.0,1.0,0,2021-01-25 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4/5/6 = 15,0,0,0,0,,Normal Study,Normal,,No,,
+272.0,104865554,67,F,0.0,0.0,"2.4, 4.8",2021-01-28 00:00:00,1,0,MS_AIIMS_HEAD_SEQ,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,Normal study,Normal,,No,,
+290.0,105321331,45,M,1.0,1.0,0,2021-01-29 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,0,0,1,0,0,0,0,Bleed- Small bleed in Basal Ganglia,Bleed- Right,0,0,1,0,0,0,,,,,,,,,,"Tiny hyperdense foci seen in right basal ganglia, with adjacent edema likely small bleed
+C/w prior scan dated 21-1-21, theer is subtle reduction in size of lesion 7mm to 5mm and subtle reduction in edema) (7mm hyperdense focus in right lentiform nucleus wiht mild perilesional edema - likley punctate hemorrhage .)
+Mild diffuse cerebral atrophy seen.",Abnormal,"ganglion, edema, bleed, lesion, cerebr, atrophy",No,,
+366.0,102622525,44,F,1.0,1.0,0,2021-01-31 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,Normal head study.,Normal,,No,,
+380.0,105328781,50,F,1.0,1.0,0,2021-01-31 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,0,0,1,0,1,1,0,"Bleed- Gangliocapsualar region
+Hypodense- frontal region,
+parietal lobe","Bleed- left gangliocapsualar region
+Hypodense- right frontal region,
+left parietal lobe","Bleed= 23 x 21 mm
+Hypodense: Parietal lobe= 15 x 12 mm",1,1,0,0,0,,,,,,,,,,"Hyperdense area of bleed attenuation measuring 2.3x2.1 cm seen in left gangliocapsular region with intraventricular extension of bleed into bilateral lateral and 3rd ventricle with mild dilatation of ventricular system. Thin extension of bleed into anterior commissure is also seen.
+An ill defined hypodense area seen in right frontal region likely gliosis/ old bleed. A well defined hypodense lesion in left aprietal lobe in parafalcine location, measuring 1.5 X 1.2 cm in size.
+Bleed in left gangliocapsular region with intraventricular extension.
+Ill defined hypodense area in right frontal region; and another well defined hypodense lesion in left parietal lobe in parafalcine location, measuring 1.5 X 1.2 cm in size-?infarct
+In view of multiple foci of infarct and bleed; an embolic etiology can be suspected.
+As compared to scan dated 29-1-2020, hypodense lesion in left parietal lobe in parafalcine location is a new finding. No other interval change seen.",Abnormal,"bleed, ventricle, lesion, lobe, pariet, infarct",Yes,Bleed-Intraventricular,Bleed-Intraventricular
+391.0,105332975,82,F,1.0,1.0,0,2021-01-31 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,"Age related cerebral atrophy. No other abnormality seen.
+",Normal,,No,,
+460.0,105321331,45,M,1.0,1.0,0,2021-02-02 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,0,0,1,0,1,0,0,"Bleed- Small bleed in Basal Ganglia
+Bleed- Puntate Hemorrhage in Lentifrom Nucleus
+Hyperdense- Lentiform nucleus","Bleed- Right of Basal Ganglia
+Bleed and Hyperdense: Right ",0,1,1,0,0,0,,,,,,,,,,"Tiny hyperdense foci seen in right basal ganglia, with adjacent edema likely small bleed
+C/w prior scan dated 21-1-21, theer is subtle reduction in size of lesion 7mm to 5mm and subtle reduction in edema)
+7 mm hyperdense focus in right lentiform nucleus wiht mild perilesional edema - likley punctate hemorrhage .",Abnormal,"ganglion, edema, bleed, lesion",No,,
+475.0,105333247,40,M,1.0,1.0,0,2021-02-03 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,1,0,0,Hydrocephalus,0,0,0,1,1,0,0,,,,,,,,,,"Mild communicating hydrocephalus. 
+No abnormal meningeal enhancement",Normal,,No,,
+531.0,500262695,70,F,0.0,1.0,0,2021-02-04 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,1,0,1,0,0,0,0,"Fracture- Displaced in temporal bone,
+Undisplaced linear fracture in zygomatic bone.
+Bleed- SAH in parieto-temporal lobe,
+SDH parieto-temporal lobe,
+Scalp hematoma parietal region, 
+Parenchymal contusion in temporal region,
+SDH in parieto-temporal occipital region,
+SAH in temporal lobe sulci.
+Thin SDH aong falx.
+","Fracture- Displaced in left temporal bone,
+Undisplaced linear fracture in left zygomatic bone.
+Bleed- SAH in left parieto-temporal lobe,
+SDH right parieto-temporal lobe,
+Scalp hematoma in left parietal region, 
+Parenchymal contusion in right temporal region,
+SDH in right parieto-temporal occipital region,
+SAH in the right temporal lobe sulci.
+","Bleed- SDH(PTO)= 13mm in occipital region,
+Scalp Hematoma= 8mm x 6 cm ",1,0,0,0,0,,,,,,,,,,"Undisplaced fracture involving the left temporal bone with adjacent SAH along the sulci of left parieto-temporal lobe and thin SDH . Scalp hematoma ( 8mm x 6 cm ) noted predominantly occupying the left parietal region.
+Counter coup injury with parenchymal contusion in the right temporal region with SDH along the right parieto-temporal occipital region, measuring ~ 13mm in the occipital region. SAH in the right temporal lobe sulci.Thin SDH along the falx.
+Undisplaced linear fracture of the left zygomatic bone.
+Right displaced intertrochanteric comminutted fracture.",Abnormal,"fracture, tempor, bone, sah, lobe, sdh, scalp, hematoma, pariet, injury",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+533.0,105316493,2,M,1.0,1.0,0,2021-02-04 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,0,0,0,Sinusitis,0,0,0,0,0,0,0,,,,,,,,,,"Right maxillary sinusitis
+",Abnormal,sinus,No,,
+579.0,500262560,41,M,1.0,1.0,0,2021-02-05 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,1,0,0,0,"Frature- nasal bone, 
+orbital roof,
+cribriform plate. 
+Hemosinus.
+Contusion- Hemorrhagic in temporal lobe with edema
+Calcification- caudate lobe
+","Frature- bilateral nasal bone, 
+right orbital roof,
+Contusion- Hemorrhagic in left temporal lobe 
+Calcification- right caudate lobe",0,1,0,0,0,0,,,,,,,,,,"Frature of the bilateral nasal bone, right orbital roof, and cribriform plate with hemosinus.
+Left temporal haemorrhagic contusion seen,with surrounding edema.
+Tiny calcified nodule in right caudate lobe ?calcified granuloma.",Abnormal,"bone, hemosinu, tempor, haemorrhag, edema, lobe, granuloma",Yes,Bleed-Contusion,Bleed-Contusion
+589.0,105326508,39,F,1.0,1.0,0,2021-02-05 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,0,0,1,0,1,0,0,"Bleed- Acute Hemorrhage in Frontal lobe
+Hypodensity- Frontal lobe, Occipital lobe
+Hyperdensity- Centrum Semiovale","Bleed- Left frontal lobe
+Hypodensity- Right Frontal and Left Occipital lobe
+Hyperdensity- Bilateral",0,0,1,0,0,0,,,,,,,,,,"Intra- parenchymal hyperdensities in left frontal lobe - s/o acute parenchymal hemorrhage(largest measuring 1.9x1.4cm)
+well-defined hypodense areas in the right frontal and left occipital lobe s/o old infarcts.
+Multiple small focal hyperdensities are seen scattered in B/L centrum semiovale s/o micro bleeds.
+3 x 1 cm hyperdense lesion in scalp soft tissues overlying occipital and posterior part of RT parietal bone s.o ? sebaceous / epidermoid cyst.",Abnormal,"lobe, bleed, infarct, focal, lesion, scalp, pariet, bone",No,,
+596.0,100013247,65,F,1.0,1.0,0,2021-02-05 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,0,0,0,"Infarct- BG
+Diffuse Cerebral Atrophy",Infarct- Bilateral BG,0,0,0,0,0,0,,,,,,,,,,"Diffuse cerebral aytrophy seen with few small illdefined focal hypodensities in right cerebral white matter likely age related microangiopathic ischemic changes.
+Old lacunar infarcts in bilateral basal ganglia.
+",Abnormal,"cerebr, focal, infarct, ganglion",No,,
+600.0,500262789,50,M,0.0,0.0,0.625,2021-02-05 00:00:00,1,0,"10.3 Head C.Spine TRAUMA
+",Siemens,1,1,0,1,0,1,0,0,"Contusion- High frontal lobe
+SAH- frontal, parieto-temporal, occipital
+SAH- sulcal space of temporal and occipital lobe
+SDH- frontal, parieto-temporal and occipital
+Fracture- mastoid temporal bone, occipital bone
+","Contusion- Left High frontal lobe
+SAH- Left frontal, left parieto-temporal, left occipital
+SAH- sulcal space of right temporal and right occipital lobe
+SDH- left frontal, left parieto-temporal and left occipital
+Fracture- left mastoid temporal bone, left occipital bone
+Hydrocephalus",SDH= 9mm ,1,0,1,0,0,,,,,,,,,,"Parenchymal contusions are seen in the left high frontal lobe with SAH and SDH(maximum - 9mm)in left frontal,parieto-temporal and occipital regions.Bilateral IVH with mild dilatation of the occipital horns with periventricular ooze is noted.
+SAH is also seen along the sulcal spaces of the right temporal and occipital lobes
+Fracture of the left mastoid temporal bone and occipital bone is seen.",Abnormal,"lobe, sah, sdh, tempor, fracture, bone",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+604.0,500262927,17,M,0.0,0.0,0.625,2021-02-06 00:00:00,1,0,"10.3 Head C.Spine TRAUMA
+",GE MEDICAL SYSTEMS,1,0,0,1,0,0,0,0,"Hemorrhagic Contusion- Temporal lobe
+Peribleed edema
+DAI- Cerebral hemisphere","Contusion- Right
+DAI- Right ",Edema= 5 mm,1,0,0,0,0,,,,,,,,,,"Multiple hyperdensities in corpus callosum of right cerebral hemisphere at grey and white matter junction likely diffuse axonal injury.
+Hemporrhagic contusion in right temporal lobe with mild peribleed edema(~5mm in size)",Abnormal,"cerebr, injury, tempor, lobe, edema",Yes,Bleed-Contusion,Bleed-Contusion
+639.0,105328170,97,M,0.0,0.0,"2.4, 4.8",2021-02-06 00:00:00,1,0,MS_AIIMS_HEAD_SEQ,Siemens,0,0,0,0,0,0,0,0,Age related diffuse atrophy,0,0,0,0,0,0,0,,,,,,,,,,Age related diffuse cerebral atrophy with periventricular white matter ischemic changes.,Abnormal,"cerebr, atrophy",No,,
+707.0,500263253,30,M,1.0,0.0,0,2021-02-08 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,0,1,0,0,0,0,0,0,Fracture- nasal bones extending to maxillae.,Fracture- Bilateral,0,1,0,0,0,0,,,,,,,,,,"Fracture of B/L nasal bones and frontal process of B/L maxillae.
+",Abnormal,"fracture, bone",No,,Fracture
+722.0,500263280,46,F,0.0,0.0,0.625,2021-02-08 00:00:00,1,0,10.3 Head C.Spine TRAUMA,GE MEDICAL SYSTEMS,1,1,0,1,0,0,0,0,"Longitudinal fracture- Mastoid part of temporal bone.
+Hematoma- Parieto occipital region 
+ Contusion- temporal region 
+SDH- frontotemoral region ","Longitudinal fracture- right temporal bone.
+Hematoma- Left Parieto occipital region 
+ Contusion- Right temporal region 
+SDH- Right frontotemoral region ",0,1,0,0,0,0,,,,,,,,,,"Longitudinal fracture of mastoid part of right temporal bone with hemotympanum.
+Hematoma in left parieto occipital region with contusion in right temporal region with thin rim of SDH in right frontotemoral region s/o countercoup injury.",Abnormal,"fracture, tempor, bone, hematoma, sdh, injury",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+768.0,105335776,28,F,1.0,1.0,0,2021-02-09 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,Normal study.,Normal,,No,,
+781.0,105340988,64,F,0.0,0.0,1.25,2021-02-10 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,"Essentially normal study. No e/o TB
+",Normal,,No,,
+804.0,500263398,32,M,0.0,0.0,0.6,2021-02-10 00:00:00,1,0,TC_HeadCSPINE_FACERoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,"No Trauma related injury seen.
+",Normal,,No,,
+818.0,500263119,13,M,1.0,1.0,0,2021-02-10 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,"No trauma related abnormality.
+Centrilobular nodules in b/l lung alongwith consolidation patchs in b/l upper lung with Pott spine involving L3 and L4 vertebra as described with completely destroyed L4 with gibbus deformity.
+There is e/o effacement of sulci over bilateral cerebral convexity s/o diffuse cerebral edema.
+Shaggy leptmeningeal enhancement is noted along sulci over bilateral parietal region in paramidline location, along interhemispheric fissure and right basifrontal region.",Normal,,No,,
+831.0,105319705,20,M,1.0,1.0,0,2021-02-11 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,1,0,0,"Hypodensity- Gangliocapsular
+Hydrocephalus",Hypodensity- Left,0,0,0,1,0,0,,,,,,,,,,"Mild Non communicating hydrocephalus with ooze.
+Illdefined areas of hypodensity seen in left gangliocapsular region.",Abnormal,hydrocephalus,No,, hydrocephalus
+875.0,500263119,13,F,0.0,0.0,1.25,2021-02-11 00:00:00,1,0,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,No significant abnormality seen.,Normal,,No,,
+892.0,500263584,27,M,1.0,1.0,0,2021-02-12 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,0,0,0,0,"Fracture- roof and medial wall of orbit extending to ethmoid sinus lamellae, greater and lesser wing of sphenoid, maxillary sinus
+Hyperdense EDH- Frontal region, Temporal region
+Hemosinus","Fracture- right orbit, right greater and lesser wing of sphenoid, right maxillary sinus
+Hyperdense EDH- right frontal region, right temporal region
+Hemosinus- right","EDH Frontal = 13mm
+EDH Temporal= 22 mm",1,0,0,0,0,,,,,,,,,,"Right orbital wall, maxillary sinus fractures, right lesser and greater wing of sphenoid fractures with right frontal and temporal EDH. 
+Fracture of roof and medial wall of right orbit extending to involve ethmoid sinus lamellae.
+Hyperdense EDH is seen in Right Frontal region with mak thicknkess ~13mm.
+Fracture of greater and lesser wing of sphenoid is seen.
+Hyperdense EDH is seen along right anterior temporal region with maximum thickness ~22mm.
+Fracture of anterior and posterolateral wall of right maxillary sinus is seen with hemosinus. Paraseptal Haematoma is seen on right side.
+Right greater and lesser wing of sphenoid fracture with right orbital wall and maxillary sinus fracture with Right frontal and temporal EDH.",Abnormal,"sinus, fracture, tempor, edh, hemosinu",No,,Fracture
+900.0,105346047,48,M,1.0,1.0,0,2021-02-12 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,1,0,0,1,0,0,"Hypodensity- cerebral hemisphere,  frontoparietal lobe region.
+Diffuse hypodesnity- cerebral hemsiphere and brain stem
+Hyperdensity- Basal cistern
+Diffuse effacement of sulcal space
+ Effacement of ventricular system.
+Mid line shift towards the left side-6 mm.","Hypodensity- right cerebral hemisphere,  left frontoparietal lobe region.
+Diffuse hypodesnity- bilateral cerebral hemsiphere
+Mid line shift- left 
+
+",Midline shift= 6 mm,0,1,0,0,0,,,,,,,,,,"There is hypodensity in the right hemisphere with loss of grey white matter differentiation and mid line shift towards the left side-6 mm.
+Similar hypodensity seen in left frontoparietal lobe region.
+Diffuse hypodensity of bilateral cerevral hemipsheres and brain stem seen.
+Diffuse effacement of sulcal spaces and effacement of ventricular system.
+Hyperdensity seen in basal cisterns s/o pseudo SAH. Diffuse sulcal hyperdensity also seen ?SAH ?slow flow
+Right sided scalp swelling seen.
+
+k/c/o Right MCA infarct, present scan shows diffuse cerebral edema with effacement of sulci and ventricles with white cerebellum sign. Findings could represent brain death. Correlation with clinical parameters /CTA/ MRA",Abnormal,"lobe, brain, effacement, sah, scalp, infarct, cerebr, edema, ventricle",No,,
+901.0,105348970,55,F,1.0,1.0,0,2021-02-12 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,"Normal study
+",Normal,,No,,
+910.0,500263618,16,M,1.0,1.0,0,2021-02-12 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,0,1,0,0,0,0,Scalp hematoma- High parietal ,Hemaatoma- Left,0,1,0,0,0,0,,,,,,,,,,"Scalp hematoma left high parietal region.
+No fracture of intracranial bleed",Abnormal,"scalp, hematoma, pariet, fracture, bleed",No,,Fracture
+911.0,105348655,61,F,1.0,1.0,0,2021-02-12 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,0,0,0,0,0,0,0,0,Diffuse age related cerebral atrophy,0,0,0,1,0,0,0,,,,,,,,,,"Diffuse age related cerebral atrophy.
+Non specific ischemic changes in bilateral frontal white matter",Abnormal,"cerebr, atrophy",No,,
+912.0,500263631,11,M,1.0,1.0,0,2021-02-12 00:00:00,1,0,"TC_HeadCSPINERoutineSeq
+",Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,"No trauma related injury.
+",Normal,,No,,
+914.0,500262263,35,M,1.0,1.0,0,2021-02-13 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,1,0,1,0,0,0,0,"Fracture- nasal bones, medial wall of orbit, lateral wall of orbit, inferior orbital rim and orbital floor, maxillary sinus (anterior wall, medial wall and posterior wall), zygomatic bones, pterygoid plates.
+Hemosinus- ethmoid sinus, maxillary sinus and sphenoid sinus.
+Hematoma- zygomatic regions and buccal regions
+","Fracture- bilateral nasal bones, bilateral  zygomatic bones, bilateral pterygoid plates.
+Hemosinus- bilateral ethmoid sinus, maxillary sinus and sphenoid sinus.
+Hematoma- bilateral zygomatic regions and buccal regions
+",0,1,0,0,0,0,,,,,,,,,,"Multiple facial fractures noted-
+Fracture of bilateral nasal bones, medial wall of orbit (ethmoid bones), lateral wall of orbit, inferior orbital rim and orbital floor, maxillary sinus (anterior wall, medial wall and posterior wall), bilateral zygomatic bones, bilateral pterygoid plates.
+Hemosinus involving bilateral ethmoid sinus, maxillary sinus and sphenoid sinus.
+Air foci with subcutaneous tissue thickening seen over bilateral zygomatic regions and buccal regions- s/o hematoma.
+Fluid in bilateral middle ear cavity and mastoid air cells.
+No e/o intra cranial bleed/infarct.
+On comparison to previous scan dated 31/01/2021, there is no e/o any interval changes .",Abnormal,"fracture, bone, sinus, hemosinu, hematoma, fluid",No,,Fracture
+949.0,500263741,17,M,1.0,1.0,0,2021-02-13 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,No trauma related injury.,Normal,,No,,
+955.0,500263751,42,M,0.0,0.0,"0.6, 2",2021-02-13 00:00:00,1,0,TC_HeadCSPINE_FACERoutineSeq,Siemens,0,1,0,0,0,0,0,0,Fracture- Nasal bone,Fracture- Bilateral,0,1,0,0,0,0,,,,,,,,,,"Bilateral nasal bone fractures
+Scalp hematoma overlying b/l high parietal calvaria",Abnormal,"bone, fracture, scalp, hematoma, pariet",No,,Fracture
+1012.0,500263947,18,M,1.0,1.0,0,2021-02-15 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Fracture of right temporal bone with hemotympancium.
+Multiple intraparechymal hemorrhages seen in b/l frontal, right temporal and occipital lobe",Abnormal,"fracture, tempor, bone, bleed, lobe",No,,Fracture
+1020.0,500263960,18,M,1.0,1.0,0,2021-02-15 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Right preseptal swelling seen.
+No evidence of intra or extra axial bleed or calvarial fracture.",Abnormal,"bleed, fracture",No,,Fracture
+1043.0,500263451,27,M,1.0,1.0,0,2021-02-16 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,0,1,0,0,0,0,"Bleed- SAH along fronto parital convexity 
+Bleed- Multple small contusion in fronto parital, temporal and basifrontal region.
+","Bleed- Right (SAH)
+Bleed- Contusion: Right fronto parietal, Right temporal and Left basiform",0,1,0,,,0,,,,,,,,,,"SAH along right fronto-parietal convexities with multiple small contusions in right fronto-parietal, right temporal and left basifrontal region.
+Fracture of left parietal calvaria extending into squamous and mastoid parts of left temporal bone and left middle ear cavity. There is also fracture of anterior wall of left EAC. Hemotympanum noted extending into left EAC.
+As compared to previous CT dated 11-2-21, no significant interval change seen.
+",Abnormal,"sah, tempor, fracture, pariet, bone",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+1070.0,500263451,27,M,0.0,0.0,1.25,2021-02-17 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,1,0,0,1,0,0,0,0,"Bleed- SAH along fronto parital convexity 
+Bleed- Multple small contusion in fronto parital, temporal and basifrontal region.
+","Bleed- Right (SAH)
+Bleed- Contusion: Right fronto parietal, Right temporal and Left basiform",0,1,0,0,0,0,,,,,,,,,,"SAH along right fronto-parietal convexities with multiple small contusions in right fronto-parietal, right temporal and left basifrontal region.
+Fracture of left parietal calvaria extending into squamous and mastoid parts of left temporal bone and left middle ear cavity. 
+There is also fracture of anterior wall of left EAC. Hemotympanum noted extending into left EAC.
+As compared to previous CT dated 11-2-21, no significant interval change seen.",Abnormal,"sah, tempor, fracture, pariet, bone",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+1099.0,105351393,27,M,1.0,1.0,0,2021-02-18 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study,Normal,,No,,
+1148.0,500264395,40,M,1.0,1.0,0,2021-02-19 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"SDH along right cerebral convexity extending along anterior falx cerebri with mass effect, difffuse cerebral edema and midline shift towards left side as described.
+SDH noted along right cerebral convexity measuring 12mm in naximum thickness also extending along anterior falx cerebri. Mass effect is seen in the form of effacement of right lateral ventricle and midline shift of 8.5mm towards left side.
+SAH in b/l frontal and left temporal region extending along b/l sylvian fissures.
+Multiple haemorrhagic contusions in b/l frontal and right temporal region, right caudate head, right cerebellar hemisphere, midbrain on right side, largest 12x8mm in right basifrontal region.
+Fracture of occipital calvarium on right side extending into basiocciput.
+
+Mild right sided haemothorax",Abnormal,injury,Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion
+1200.0,20130114899,59,M,1.0,1.0,0,2021-02-21 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Diffuse cerebral atrophy
+Permeative lytic destruction in anterior arch and lateral mass of atlas and basiocciput.Adv- PET scan",Abnormal,,No,,
+1224.0,500263492,58,F,1.0,1.0,0,2021-02-21 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Left SDH involving cerebral convexity max thickness 5mm.Hemorragic contusion in right temporal lobe with surrounding edema with overlying cortical sulcul SAH thin . small contusions in left anteiror temporal lobe left temporal bone , greater wing of sphenoid , left lateral wall of orbit, left nasal bone fracture fracture.
+Collection ~10.6 x 2.1 cm (ap x tr) with air foci within left parietotemporal scalp region overlying fracture site.
+Hypodensity noted in right frontal region -old contusion
+",Abnormal,"bone, fracture, cerebr, atrophy",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+1232.0,105319705,20,M,1.0,0.0,0,2021-02-22 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Mild non communicating hydrocephalus with periventricular ooze.
+Few nodular enhancing lesions seen in right basal ganglia.(k/c/o cryptococcal meningitis)
+",Abnormal,"fluid, trauma, injury",No,, hydrocephalus
+,500264778,22,M,1.0,1.0,0,2021-02-22 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Small EDH is sen in left frontal lobe(thickness~8 mm ).Linear non displaced fracture of forntal bone on right side, frontal sinus floor with hemosinus.
+Grade1 splenic injury.
+Compression fracture of L3 vertebral body with pelvic fracture.
+Linear fracure of right frontal bone with hemosinus",Abnormal,injury,No,,Fracture
+,500264846,54,M,0.0,0.0,0.625,2021-02-22 00:00:00,1,0,"10.3 Head C.Spine TRAUMA
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Multiple contusions are seen in B/L frontal lobes, temporal and occipital lobes with diffuse SAH along B/L frontal, parietal and right occipital lobes and pneumocephalus along right frontal lobe.
+Multiple air foci seen within irght transverse and sigmoid sinus.
+Fracture of right occipital bone, mastoid part of right temporal bone with hemomastoideum.
+Fracture of right lateral wall of sphenoid sinus with hemosinus.",Abnormal,,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+,105360870,37,F,1.0,1.0,0,2021-02-22 00:00:00,1,0,"AIIMS_DF_HeadRoutineSeq
+",,,,,,,,,,,,,,,,,,,,,,,,,,,"Ill defined hypodensity in left internal capsule likely infarct.
+Note made of soft tissue attenuation contents in left ethmoid, left maxillary and b/l frontal sinuses s/o sinusitis.",Abnormal,"lobe, tempor, sah, pariet, sinus, fracture, bone, hemosinu",No,,
+,500264838,39,F,1.0,1.0,0,2021-02-22 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Single point fracture of left 8th-9th ribs along their posterior aspect.
+Basal atelectasis in bilateral lungs.
+Few splenic lacerations noted without any hemoperitoneum.",Abnormal,,No,,Fracture
+,"02 HRCT TEMPORAL*
+",3,M,0.0,0.0,0.75,2021-02-22 00:00:00,1,0,"05_TEMPORAL_BONE_SPIRL
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500264829,36,M,1.0,1.0,0,2021-02-22 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Normal study
+",Normal,,No,,
+,105352711,11,F,1.0,1.0,0,2021-02-22 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Permeative lytic destruction of left occipital condyle and anterior body and left lateral mass of atlas with associated prevertebral collection on left side extending upto C4 vertebral level - ?tubercular.
+Atlanto-axial dislocation with severe spinal canal narrowing with basilar invagination
+Multiple enlarged mediastinal lymph nodes with few foci of calcification.",Abnormal,,No,,
+,105357541*,,,1.0,0.0,0,2021-02-22 00:00:00,1,0,"1.1 CECT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105301889,11M,F,1.0,0.0,0,2021-02-22 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Status post left craniotomy with moderate hydrocephalus with ventriculitis. Ventriculostomy in situ with edema in right frontal lobe along ventriculostomy catheter. Diffuse pachymeningeal enhancement.
+Large (10.4x3.1x8.2cm) extra axial fluid collection with multiple air foci along left cereral hemisphere causing mass effect on left cerebral hemisphere and effacement of anterior horn of left lateral ventricle - ?post op collection/subdural effusion.",Abnormal,calcification,Yes,Bleed-Subdural,Bleed-Subdural
+,100971568*,30,F,1.0,0.0,0,2021-02-22 00:00:00,1,0,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500264823,23,M,1.0,0.0,0.6,2021-02-22 00:00:00,1,0,"TC_HeadCSPINE_FACERoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Tripod fracture of left zygomatic bone with surgical plate along anterior maxilla.
+Fracture of inferior, lateral, superior and medial walls of left orbit with associated left frontal hemosinus.",Abnormal,"hydrocephalus, edema, lobe, fluid, cerebr, effacement, ventricle",No,,Fracture
+,500264681,31,F,1.0,1.0,0,2021-02-22 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"No trauma related injury.
+",Normal,,No,,
+1237.0,105360870,37,F,1.0,1.0,0,2021-02-23 00:00:00,1,0,AIIMS_DF_SinusVol,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Ill defined hypodensity in left internal capsule likely infarct.
+Note made of soft tissue attenuation contents in left ethmoid, left maxillary and b/l frontal sinuses s/o sinusitis.",Abnormal,fracture,No,,
+1258.0,500264913,40,M,1.0,1.0,0,2021-02-23 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Fracture of mastoid part of right temporal bone and anterior and posterior walls of right external auditory canalwith hemomastoideumFracture of right lateral wall of sphenoid sinus with hemosinus.Multiple haemorrhagic contusions in left parieto-temporal , right frontal, right fronto-parietal location largest measuring ~5.2x 3.2cm in left pareito-temporal location causing mass effect in the form of ~6mm midline shift towards right side and attenuation of ipsilateral lateral ventricle.
+Thin SDH along left cerebral conexity with SAH along left fronto-parietal sulci and IVH in right lateral ventricle.
+
+Fracture of mid third of right clavicle.
+Two point fracture of right side 2-8ribs. Right side mild hemopneumothorax. Small area of laceration in anterior segment of right upper lobe.",Abnormal,"fracture, tempor",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion
+1276.0,500264990,28,M,1.0,1.0,0,2021-02-23 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Fracture of medial wall of right orbit with hemosinus.
+
+Single point fracture of right 1st to 7th ribs and left 2nd ribs.Fracture of right transverse process of D2, D3 and D4 vertebra.Loculated collection in right pleural cavity with thick enhancing wall suggestive of empyema.
+Loculated collection with enhancing walls in right lateral chest wall spanning from 2nd to 7th intercostal space.
+Consolidation is seen in lower lobe of right lung.
+
+The central line tip is seen in right IJV (high positioned)-need repositioning.Small non occluded hypodense thrombus is seen in SVC.
+
+Elevated right dome of diaphragm with mediastinal shift to left.Large Intraparenchymal hematoma reaching upto subcapsular surface and laceration in segment IVa of liver that is communicating with loculated perihepatic,right subdiaphragmatic collection with extension as described with extensive inflammatory changes and post op changes as described Advise MRCP abdomen to rule out billiary leak .
+
+Cholelithiasis.
+",Abnormal,,No,,Fracture
+1297.0,104831478,5,M,1.0,1.0,0,2021-02-24 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+1340.0,105347590,65,M,1.0,1.0,0,2021-02-24 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+1353.0,105319705,20,M,1.0,1.0,0,2021-02-25 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Mild non communicating hydrocephalus with periventricular ooze.
+Few nodular enhancing lesions seen in right basal ganglia.(k/c/o cryptococcal meningitis)",Abnormal,"fracture, bone, scalp, hematoma, atrophy",No,, hydrocephalus
+1358.0,500265194*,40,M,0.0,0.0,0.625,2021-02-25 00:00:00,1,0,"10.3 Head C.Spine TRAUMA
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+1388.0,101169894,44,M,1.0,1.0,0,2021-02-25 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Right gangliocapsular and thalamic intraparenchymal bleed measuring approx 3.6 x 3.1 cm with intraventricular extension into bilateral lateral , 3rd and 4th ventricles and resultant obstructive hydrocephalus. Midline shift of 6mm towards left seen.
+
+Small ~6 mm calcified granuloma is seen in left temporal lobe.
+
+Right sided large gangliocapsular / thalamic intraparenchymal bleed with intraventricular extension as described with midline shift",Abnormal,"brain, chronic, infarct, ganglion",Yes,Bleed-Intraventricular,Midline shift /Intraventricular
+1402.0,105355781,60,F,1.0,1.0,0,2021-02-26 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"1.Cerebral atrophic chanes
+2.Few microangiopathic changes.
+3.Chronic lacunar infarct left basal ganglia.
+
+Prominent b/l cerebral extra axial spaces and prominent ventricular system s/o cerebral atrophic changes.
+Few ill defined hypodensities seen in left centrum semiovale and rt periventricular region s/o microangiopathic changes.
+Chronic lacunar infarct left basal ganglia.",Abnormal,,No,,
+1419.0,105367545,55,M,0.0,0.0,1.25,2021-02-26 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Hypodensity in right cerebellar hemisphere and right temporal white matter -likely infarcts
+ADV: MRI brain / CTA",Abnormal,,No,,
+1434.0,500265232,37,M,1.0,1.0,0,2021-02-26 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"EDH with maximum thickness of 11mm in left frontal region .Small adjacent hemorrhagic contusion is seen. Minimal pneumocephalus seen.
+Fracture of left frontal bone involving the frontal sinus roof of orbit with hemosinus involving left maxillary and ethmoid sinus.
+Fracture of GWS and squamous part of temporal bone on left side.Left side scalp hematoma seen.
+
+EDH in left frontal region with adjacent hemorrhagic contusion . Minimal pneumocephalus.
+Fracture of left frontal bone , frontal sinus, roof of orbit with hemosinus involving left maxillary and ethmoid sinus.
+Fracture of GWS and squamous part of temporal bone on left side.",Abnormal,Ear anatomy anomaly,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+1474.0,105356825,43,M,0.0,0.0,1.25,2021-02-27 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Hypodensity noted in the suprasellar and interpeduncular cistern and also along bilateral sylvian fissures (left >right) s/o ? exudates. 
+Hypodense lesions noted in the left thalamus and left medial temporal lobe ?tuberculomas
+CECT is advised",Abnormal,,No,,
+1478.0,105361383,35,M,1.0,1.0,0,2021-02-27 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"There is e/o a small foci of bleed measuring 3.5mm seen in corona radiata in left parietal region with minimal perilesional edema.
+Old infective changes in b/l lower lobes. No e/o any active infective foci seen.",Abnormal,,No,,
+1480.0,500265364,2,M,1.0,1.0,0,2021-02-27 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,1,0,0,1,0,0,0,0,"Bleed- Hemorrhage in frontal lobe, 
+Hemorrhage along intra-ventricular and corpus callosum body",Bleed- Left Frontal lobe,,,,,,,,,,,,,,,,"Small petechial hemorrhage in fontal lobe on left side, body of corpus callosum along with intra-ventricular hemorrhage seen.
+Fracture of right 12 th rib, iliac bone on right side extending till right SI joint, sacral ala on right, IPR and SPR on right side with associated hematoma along iliac blade .",Abnormal,"bleed, pariet, edema, lobe",No,,Fracture
+1490.0,101169894,44,M,1.0,1.0,0,2021-02-27 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,1,0,1,1,0,1,0,0,"Bleed- Intraparenchymal thalamus
+Hydrocephalus- Ventricles","Bleed- Right intraparenchymal thalamus
+Midline shift- Left",Midline shift- 6mm,0,0,,,1,,,,,,,,,,"Right gangliocapsular and thalamic intraparenchymal bleed measuring approx 3.6 x 3.1 cm with intraventricular extension into bilateral lateral , 
+3rd and 4th ventricles and resultant obstructive hydrocephalus. Midline shift of 6mm towards left seen.
+Small ~6 mm calcified granuloma is seen in left temporal lobe.
+Right sided large gangliocapsular / thalamic intraparenchymal bleed with intraventricular extension as described with midline shift",Abnormal,,Yes,Bleed-Intraventricular,Midline shift /Intraventricular
+1523.0,105356918,24,F,1.0,1.0,0,2021-02-28 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study.,Normal,,No,,
+1557.0,101453181,35,F,1.0,1.0,0,2021-03-01 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"* Diffuse bilateral sulcal effacement likely cerebral edema with heterogeneous basal cisterns - ? meningitis
+* Mildly prominent left lateral ventricle, EVD in right lateral ventricle , and air in right lateral ventricle s/o pneumocephalus.",Abnormal,"ventricle, focal, pariet, edema, rib, fracture, hematoma",No,,
+1576.0,500265364,35,M,0.0,1.0,0,2021-03-01 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"* Multiple small petechial hemorrhages in bilateral frontal lobe, body of corpus callosum along with intraventricular hemorrhage.
+* Focal SAH in left high parietal lobe
+* As compared to previous scan dated 27/2/21, callosal and intraventricular hemorrhage show partial resolution. However, there is no change in size of parenchymal petechial hemorrhages.",Abnormal,"lacer, trauma",Yes,Bleed-Intraventricular,Bleed-Intraventricular
+1577.0,500265387,18,M,0.0,1.0,0,2021-03-01 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Undisplaced, linear fracture in the left parietal bone in parasagittal location with overlying scalp hematoma.
+Longitudnal fracture in the right temporal bone.
+Focal SAH in the left parietal region",Abnormal,,No,,Fracture
+1582.0,105370868,35,F,1.0,1.0,0,2021-03-01 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Age related cerebral atrophy. No e/o bleed.
+Normal study.",Normal,,No,,
+1609.0,500265824,32,M,1.0,1.0,0,2021-03-02 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"No trauma related injury
+",Normal,,No,,
+1613.0,105329580,38,M,1.0,1.0,0,2021-03-02 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"k/c/o meningitis
+Mildly dilated bilateral ventricles -? early hydrocephalus",Abnormal,,No,, hydrocephalus
+1619.0,500265319,7,M,1.0,1.0,0,2021-03-02 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Acute EDH of max. seperation 5 mm along left occipoital convexity with extraxail pneumocephalus and associated fracture of occipital bone.
+SDH along posterior falx with acute SAH in permesencephalic and MCA cisterns. 
+A well defined round contrast filled lesion is seen at expected location of tip of basillar artery Advise CT angiography to rule out basillar artery aneurysm.",Abnormal,"lesion, bleed",No,,Fracture
+1626.0,101169894,44,M,1.0,1.0,0,2021-03-02 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Right gangliocapsular and thalamic intraparenchymal bleed measuring approx 3.6 x 3.1 cm with intraventricular extension into bilateral lateral , 3rd and 4th ventricles and resultant obstructive hydrocephalus. Midline shift of 6mm towards left seen.
+Small ~6 mm calcified granuloma is seen in left temporal lobe.",Abnormal,"fracture, bone",Yes,Bleed-Intraventricular,Midline shift /Intraventricular
+1634.0,105363041,56,F,1.0,1.0,0,2021-03-02 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Small hyperdense extra axial lesion (mean HU 53) measuring 6.5x4.5mm in right frontal region ? foci of bleed. Advise Non-contrast CT head,Abnormal,,No,,
+1639.0,500265749,18,O,1.0,1.0,0,2021-03-02 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Multiple contusions right parietal lobe.
+Comminuted fracture left orbit lateral wall,floor,anterior and lateral walls of maxillary sinus with hemosinus.
+Fracture left pterygoid base
+Rest NTRI.",Abnormal,"fracture, trauma, injury, lobe",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+1675.0,500265101,18,M,1.0,1.0,0,2021-03-03 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"* Multiple facial and skull bone fractures
+* Left frontal EDH depth approx 0.72 cm
+As compared to previous scan dated 25/2/2021, resolution of hemorrhagic contusions seen.",Abnormal,"fracture, bone, scalp, hematoma",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+1676.0,105319705,20,M,0.0,0.0,1.25,2021-03-03 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"White matter edema in left frontal lobe with mild non communicating hydrocephalus as described
+adv: CECT /CEMRI correlation
+There evidence of white matter edema in left anterior frontal lobe.
+There is evidence of prominent bilateral lateral ventricle (dilated temporal horns) and third ventricle with normal fourth ventricle, associated with periventricular ooze (adjacent to bilateral forntal horn) seen.",Abnormal,"fracture, vertebra",No,, hydrocephalus
+1679.0,101453181,35,F,1.0,1.0,0,2021-03-03 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"* Diffuse bilateral sulcal effacement likely cerebral edema with heterogeneous basal cisterns - ? meningitis
+* Mildly prominent left lateral ventricle with EVD (External ventricular drain) in right lateral ventricle and air in right lateral ventricle ",Abnormal,"bone, fracture, edh, hemorrhage",No,,
+1700.0,500265820,45,M,1.0,1.0,0,2021-03-03 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Multiple left side single point rib fractures
+",Abnormal,,No,,Fracture
+1721.0,500200033,30,M,1.0,1.0,0,2021-03-04 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Post cranioplasty changes with sclerosis in frontal bone and adjacent collection on either side of bone in extradural space in b/l frontotemporal region and in scalp, reaching till skin.- f/s/o osteomyelitis
+Glioencephalomalacic changes in b/l frontal lobes- sequelae of old trauma related injury",Abnormal,,No,,
+1722.0,105374704,50,M,0.0,0.0,1.25,2021-03-04 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"In a k/c/o multiple myeloma, multiple punched out lytic lesions are seen in the calvarium varying from 3-5mm in size.
+There is no e/o intracranial bleed.
+Mild sulcal widening is noted, s/o age-related atrophic changes.",Abnormal,,No,,
+1748.0,500265922,38,M,1.0,1.0,0,2021-03-04 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Acute SDH seen (~3mm in maximum thickness) along right fronto-parietal and temporal convexity and left frontal convexity (~2mm in maximum thickness). SDH also seen along falx cerebri.
+Multiple haemorrhagic contusions in bilateral frontal location, right temporal location and in left cerebellar hemisphere. Focal SAH seen along right fronto-temporal sulci.
+Minimal SAH seen in dependent horn of bilateral lateral ventricles.
+Mild sutural diastasis seen along left occipitomastoid suture with overlying scalp hematoma.",Abnormal,"scalp, hematoma, spine",Yes,Bleed-Contusion,Bleed-Contusion
+1785.0,105307240*,12,M,1.0,0.0,0,2021-03-05 00:00:00,1,0,01_IRCH_HEAD_Spi,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+1787.0,500266084,5,M,1.0,1.0,0,2021-03-05 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"EDH of max. seperation 9 mm in right fronto-parietal region with adjacent small hemorrhagic contusion of 2 x 3 mm in parietal lobe with associated minimal perilesional edema and overlying small scalp hematoma with few calcific foci over right cerebral convexity.Thin SDH with small hemorrhagic and non hemorrhagic contusion in right occipital lobe of size 15 x 12 mm.Thin SAH in anterior hemispheric fissure.
+Fracture of right parietal bone extending in to squamous and mastoid part of ipsilateral temporal bone wihich is crossed by another horizontal fracture of right temporal bone with associated minimal hemosinus, another fracture of right high parietal bone extending in to sagittal suture and coronal suture and left high parietal bone extending in to coronal suture, fracture of spinous proces of C7, T3, T4, T5.
+Hypodense area/ impacted secretion seen in apical segmental bronchus of RUL causing collapse of apical segment of right upper lobe, small GGO Patch in medial segment of RML, diffuse GGO with small consolidation patches in left lung-Contusion witth ?aspiration changes.",Abnormal,"fracture, hernias",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+1832.0,105319705,20,M,0.0,0.0,1.25,2021-03-06 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"k/c/o Cryptococcal meningitis, current scan shows
+* Mild non-communicating hydrocephalus with ooze.
+* Ill defined area of hypodensity in left gangliocapsular region and white matter hypodensity in left anterior frontal lobe.",Abnormal,,No,, hydrocephalus
+1834.0,500265702,54,F,0.0,0.0,1.25,2021-03-06 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"focal hyperdense lesion in left frontal lobe s/o contusion and another focal hyperdense lesion without perilesional hypodensity in B/L parasagittal location of frontoparietal region likely sulcal SAH
+calcifid granuloma in left high parietal lobe.
+sulcal prominance in b/l frontal lobe s/o age related atropy
+
+Focal contusion noted in left frontal lobe with focal SAH in B/L high parietal location (parafalcine location).",Abnormal,"fracture, sinus",Yes,Bleed-Contusion,Bleed-Contusion
+1847.0,105378949,47,M,1.0,1.0,0,2021-03-06 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Normal Study.
+",Normal,,No,,
+1863.0,105269943,45,F,1.0,1.0,0,2021-03-07 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"There is ill-defined hypodensity in the left high frontal and left occipital lobes, with involvement of both gray and white matter, and hyperdense foci within s/o hemorrhagic infarct.
+There are post-op changes in the left orbit (post-exentration) with associated soft tissue in the post-operative cavity encasing the optic nerve and involving the orbital apex. the left cavernous sinus is grossly enlarged compared to the right.
+There is diffuse mucosal thickening in the left maxillary sinus, bilateral ethmoid sinus, frontal sinus and sphenoid sinus with left post-FESS changes.
+
+Known rinorobitocerebral mucormycosis with subacute hemorrhage watershed infarcts in left high frontal and left occipital lobe, with invasive fungal sinusitis, with the present scan showing consistent findings as described.",Abnormal,injury,No,,
+1878.0,104028099,25,F,1.0,1.0,0,2021-03-07 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Hypodensity in left posterior parietal region ? vaculitis.
+Adv- MRI",Abnormal,,No,,
+1881.0,101169894,44,M,1.0,1.0,0,2021-03-07 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Right gangliocapsular and thalamic bleed with intraventricular extension as described withy midline shift.
+Compared to previous scan dated 2 march, no signifcant decrease in the size of bleed and in ventricular extension.
+
+Right gangliocapsular and thalamic bleed measuring 3.3 x 1.9 cm with intraventricular extension to all the horns of right ventricle, occipital horn of left ventricle and 3rd ventricle with surrounding brain edema.
+Midline shift of 5mm is seen towards the left.",Abnormal,pariet,Yes,Bleed-Intraventricular,Midline shift /Intraventricular
+1892.0,500266251,39,F,1.0,1.0,0,2021-03-07 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Fracture both nasal bone.
+
+Note is made of mucosal thickening in right maxillary sinus.",Abnormal,,No,,Fracture
+1894.0,500265495,17,M,1.0,1.0,0,2021-03-07 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Cortical hemorrhagic contusion in right frontal lobe .
+CSF hygroma is seen in b/l frontal region.
+
+In a follow up c/o RTA , the contusions seen on previou scan dated 28/2/21 are resolved on current scan however the right frontal contusion is a new finding.",Abnormal,,Yes,Bleed-Contusion,Bleed-Contusion
+1900.0,105133072,24,M,1.0,1.0,0,2021-03-07 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Acute on chronic SDH with maximum thickness of 16 mm along left Frontoparietal region with midline shift (7.7mm) towards right side.
+SDH along the falx and tentorium.
+Preseptal hematoma with small pocket of air overlying the left orbit.
+Compared to previous NCCT Head dated 25/02/2021 there is decrease in preseptal hematoma along left orbit and left frontal scalp hematoma.",Abnormal,"lesion, lobe, edema",No,,Midline shift
+1916.0,500266473,22,M,1.0,1.0,0,2021-03-07 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Normal study
+",Normal,,No,,
+1948.0,500266543,31,M,0.0,0.0,2,2021-03-08 00:00:00,1,0,TC_HeadCSPINE_FACERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Multiple right skull and facial fractures as described.
+Multiple hemorhagic contusions in right frontal and temporal lobes, midbrain and left temporal lobe with midline shift of 6 mm.
+
+Comminuted depressed fractures of right frontal, temporal and parietal bones with multiple fractures of squamous part of right temporal bone, right frontal bone, right zygomatic bone, right nasal bones, greater and lesser wings, body & pterygoid plates of right sphenoid, all walls of right orbit and all wall of right maxillary sinus. Right Le Forte I, II and III fractures seen. Longitudnal fracture of mastoid part of left temporal bone and left middle ear cavity with associated hemotympanum and hemomastideum. Fracture of ramus of right mandible also seen.
+Large scalp and facial hematoma seen on the right side overlying the fracture with multiple air foci within it. Associated hemosinus seen in B/L ethmoidal, sphenoidal, maxillary and right frontal sinuses.
+Multiple hemorhagic contusions in right frontal and temporal lobes, midbrain and left temporal lobe with midline shift of 5 mm.",Abnormal,"lesion, brain, infarct, lobe, ventricle, fluid, calcification, bone, tempor",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion
+1968.0,500266494,14,M,1.0,1.0,0,2021-03-08 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Grade 1 splenic injury with mild hemoperitoneum.
+",Abnormal,"ventricle, atrophy, infarct, ganglion, cerebr",No,,
+1973.0,101453181,35,F,1.0,1.0,0,2021-03-09 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Diffuse bilateral sulci effacement likely cerebral edema
+Dilated 3rd and 4th ventrical likely non communicating hydrocephalus.
+No evidence of cerebral metastasis",Abnormal,"fracture, injury",No,, hydrocephalus
+1974.0,500262605,32,M,1.0,1.0,0,2021-03-09 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Bilateral frontal and left parietal SAH is seen.
+There is SDH seen along the left frontal, parietal and temporal lobe (maximum thickness~10 mm) . hypodense area is seen within the SDH ?active haemorrhage.
+Few haemorrhagic contusions are also seen in left frontal lobe.
+There is midline shift of ~11 mm.
+Elongation of midbrain is seen with evidence of descending transtentorial herniation.
+Fracture of right lateral and posterior wall of sphenoid sinus is seen with hemosinus.
+
+Left SDH with SAH and left frontal haemorrhagic contusions causing midline shift of ~11 mm and descending transtentorial herniation
+Fracture of walls of right sphenoid sinus with sphenoid hemosinus.",Abnormal,"fracture, pariet, bone, hematoma, sdh",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion
+2001.0,105370306,11,M,1.0,1.0,0,2021-03-09 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"MRI Result
+K/C/O Malignant osteopetrosis with left focal seizures,present study shows-
+
+1. Nodular irregular leptomeningeal enhancement in b/l frontoparietal region, left temporooccipital region
+with gyriform diffusion restriction , b/l frontoparietal white matter edema , hydrocephalus.
+
+Features likely s/o meningoencephalitis.
+
+2.Multiple hemorrhages in b/l frontoparietal region,along tentorium and IVH in b/l lateral ventricles likely due to thrombocytopenia.
+
+3. Multiple enhancing foci showing diffusion restriction in b/l cerebellar hemispheres ? Infective ?Nature
+
+4.Diffuse thickening ,sclerosis of bony calvaria, base of skull and visualised cervical vertebrae -c/w osteopetrosis changes.",Abnormal,infarct,No,, hydrocephalus
+2008.0,500266078,26,M,1.0,1.0,0,2021-03-09 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2034.0,500266653,40,M,1.0,1.0,0,2021-03-09 00:00:00,1,0,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2036.0,105362702,44,F,1.0,1.0,0,2021-03-10 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2046.0,101453181,35,F,1.0,1.0,0,2021-03-10 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2057.0,500266396,45,M,1.0,0.0,0,2021-03-10 00:00:00,1,0,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2068.0,105299641,29,M,0.0,0.0,1.25,2021-03-10 00:00:00,1,0,1.1 AIIMS RD HEAD ROUTINE,GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2093.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2094.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2095.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2096.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2097.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2098.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2099.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2100.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2101.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2102.0,,,,,,,2021-03-11 00:00:00,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2103.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2104.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2105.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2106.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2107.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2108.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2109.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2110.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2111.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2112.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2113.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2114.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2115.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2116.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2117.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2118.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2119.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2120.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2121.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2122.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2123.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2124.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2125.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2126.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2127.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2128.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2129.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2130.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2131.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2132.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2133.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2134.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2168.0,500263059,7,M,1.0,1.0,0,2021-04-05 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2283.0,500270419,7,M,1.0,1.0,0,2021-04-07 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2286.0,105370291,20,F,1.0,1.0,0,2021-04-07 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2338.0,105399314,26,M,1.0,1.0,0,2021-04-08 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2352.0,105339447,15,F,1.0,1.0,0,2021-04-09 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2376.0,500270723,27,M,1.0,1.0,0,2021-04-09 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2391.0,500270210,26,F,1.0,1.0,0,2021-04-10 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2413.0,500270776,60,M,1.0,1.0,0,2021-04-10 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2429.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2449.0,500271995,38,M,1.0,1.0,0,2021-04-21 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2461.0,500271990,45,F,1.0,1.0,0,2021-04-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2469.0,500272076,46,M,1.0,1.0,0,2021-04-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2472.0,500272037,6,F,1.0,1.0,0,2021-04-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2517.0,500272133,32,M,1.0,1.0,0,2021-04-25 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2551.0,105290968,48,M,0.0,0.0,1.25,2021-04-26 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2569.0,500272347,50,M,0.0,0.0,0.625,2021-04-27 00:00:00,,,"10.1 HEAD ROUTINE TRAUMA
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2574.0,500272434,29,M,0.0,0.0,1.25,2021-04-28 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2607.0,500272557,70,M,0.0,0.0,0.625,2021-04-30 00:00:00,,,"10.3 Head C.Spine TRAUMA
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2615.0,500272626,30,M,0.0,0.0,0.625,2021-05-01 00:00:00,,,"20.1 Head+C Spine+Torso
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"EDH in right temporal and right frontoparital region with max depth ~10 mm. few hemorrhagic contusions with surrounding mild edema, seen in bilateral temporal and left high parietal lobes, largest measuring 2.5x1.5cms in size in right temporal region. SAH is seen in left high frotal and parietal sulcal spaces. bleed is also seen in posterior horn of left lateral ventricle. mass effect in the form of midline shift of ~4mm to left. hyperdense foci seen in midbrain ? bleed comminuted fractue of right parietal bone extendig to involve squamous part of right temporal bone, basisphenoid, wall s of left carotid canal, walls of sphenoid sinus (with hemosinus), transverse fracture of left petrous bone with hemotympanum (no obvious ossicular disruption is seen). fracture of right zygomatic arch, lateral and floor of right orbit, lateral wall ofright maxllary sinus with hemosinus and fracture of right pterygoid bone. EDH in right temporal and right frontoparietal region hemorrahgic contusion, SAH and IVH (left lateral ventricle) as described with midline shift of 4mm to left. hyperdese foci in midbrain ? bleed fracture of cavaria with fracture line involving left carotid canal and petrous part of left temporal bone (transverse fracture) as described as compard to scan dated 1/5/2021, no significant change in findings.",Abnormal,"infarct, lobe, cerebr, atrophy, sinus",Yes,Bleed-Contusion,Midline shift / Fracture / Bleed-Contusion
+2633.0,500272645,28,M,0.0,0.0,0.625,2021-05-02 00:00:00,,,"10.3 Head C.Spine TRAUMA
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Thin SHD present along left frontal convexity with surrounding multiple tiny intraparenchymal hemorrhagic contusions in frontal lobe (L>R) .Small hemorrhagic contusion in left temporal lobe.Right lamboid suture diastasis is seen.
+EDH present along right occipital convexity causing compression on perimesencephalic cistern with mass effect.
+Long segment mucosal thickening involving ascending colon till mid part of transverse colon with subcentrimetric lymph nodes in right iliac fossa-likely inflammatory(non trauma related).
+
+Thin SHD of max. separation 7 mm present along left frontal convexity with surrounding multiple tiny intraparenchymal hemorrhagic contusions (L>R frontal lobe) largest measuring 6 mm x 5 mm with minimal perilesional edema .Small hemorrhagic contusion in left temporal lobe
+There is mass effect in form effacement of ipsilateral lateral ventricle and midline shift of 7 mm on left side.
+EDH of max. seperation 10 mm present along right occipital convexity causing compression on perimesencephalic cistern.
+Bilateral effacement of the sulcal spaces in fronto-parietal region s/o cerebral edema.
+Right lamboid sutural diastasis is seen.",Abnormal,,Yes,Bleed-Contusion,Midline shift / Bleed-Contusion
+2646.0,500272719,21,M,0.0,0.0,0.625,2021-05-03 00:00:00,,,"10.3 Head C.Spine TRAUMA
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"few small hemorrahgic contusions seen in left frontal and temporal region with associated SAH.
+Thin SDH is seen in left frontal convexity with max depth 4.6mm.
+bleed density is seen along anterior falx.
+there is sutural diastasis or right occipitomastoid suture with fracture of right wall of sphenoid sinus (associated with hemosinus) with extension to right carotid canal. scalp hemoatoma in right occipital region.
+
+Few small hemorrahgic contusions seen in left frontal and temporal region with associated SAH.
+Thin SDH is in left frontal convexity and along anterior falx.
+sutural diastasis or right occipitomastoid suture with fracture of right wall of sphenoid sinus (associated with hemosinus) with extension to right carotid canal. (carotid angiography -normal)
+no trauma related injury in chest or abdomen.",Abnormal,"hemorrhage, lobe, ganglion, sdh, sah, bleed, scalp, hematoma, haemorrhag, pariet, focal, vertebra",Yes,,Fracture
+2673.0,105234600,10,F,0.0,0.0,1.25,2021-05-05 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Confluent areas of hemorrhage are noted involving the left basal ganglia,left temporal lobe,left parietal lobe with surrounding edema.Focal areas of hemorrhage are also noted in the right occipital lobe,right basal ganglia and right part of the pons. There is presence of midline shift of ~7mm to the right.
+Intracerebral hemorrhage as described above with midline shift of ~7mm to right with hydrocephalus",Abnormal,"fracture, hematoma, lobe",No,,Midline shift
+2680.0,500272835,2,M,1.0,1.0,0,2021-05-06 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"EDH along right frontal convexity (thickness approx 1.12 cm) with underlying hemorrhagic contusions. Accompanying SDH of maxm depth of 0.6 cm along right frontal convexity with focal SAH.
+Intraparenchymal bleed in left frontal region
+
+Compared with previous NCCT Head dated 04/05/21, the EDH and SDH have increased in thickness , left intraparenchymal bleed has also progressed",Abnormal,,Yes,Bleed-Contusion,Bleed-Contusion
+2684.0,500272770,44,M,1.0,1.0,0,2021-05-06 00:00:00,,,"TC_HeadCSPINERoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Extraxial EDH of thickness 4.1mm along left parietal region and 7mm along temporal region with simple undisplaced fracture in left parietal bone extending to squamous part of left temporal bone.
+Linear fracture of left zygomatic arch.
+Sulcal SAH in anterior temporal lobe.
+Fracture noted in roof of sphenoid sinus with mild hemosinus
+
+* Simple undisplaced fracture in left parietal bone extending to squamous part of left temporal lobe with thin EDH(Venous) in left parietotemporal region as described.
+* Linear fracture of left zygomatic arch.",Abnormal,,No,,Fracture
+2686.0,105434481*,44,M,1.0,1.0,0,2021-05-06 00:00:00,,,"1.1 CECT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2694.0,105228904,32,M,0.0,0.0,1.25,2021-05-06 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Well defined round calcified lesion measuring ~6mm in size with presence of mild surrounding edema involving the right high frontal lobe-? NCC,Abnormal,"lesion, edema",No,,
+2730.0,105288775,5M,M,1.0,1.0,0,2021-05-08 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"F/u/c/o hydrocephalus current scan shows progressive disease
+* Communicated gross holoventricle dilatation with parenhymal thinning as describe in a follow up case of post ventriculitis hydrocephalus.
+* Malpostioned ventriculosubgaleal shunt(require repositioning).",Abnormal,"ventricle, lesion",No,, hydrocephalus
+2790.0,105435099,59,F,1.0,1.0,0,2021-05-12 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Normal Study
+",Normal,,No,,
+2795.0,500272421,30,F,1.0,1.0,"0.6, 2",2021-05-12 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study,Normal,,No,,
+2800.0,500273200,60,M,1.0,1.0,0.6,2021-05-12 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2809.0,500273175,29,M,1.0,1.0,0.6,2021-05-12 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2828.0,500273217,8,M,1.0,1.0,0,2021-05-13 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2860.0,105347551,15,M,1.0,1.0,0,2021-05-15 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2871.0,105436648,32,M,1.0,1.0,0,2021-05-15 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2875.0,100611490,22,F,1.0,1.0,0,2021-05-15 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2884.0,500273371,27,F,1.0,1.0,0,2021-05-16 00:00:00,,,"TC_HeadCSPINERoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2895.0,500273317,65,F,1.0,1.0,0,2021-05-16 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2899.0,500273390,22,M,1.0,1.0,0,2021-05-16 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2925.0,500272573,27,M,1.0,1.0,0.6,2021-05-17 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2928.0,100611490,22,F,0.0,0.0,1.25,2021-05-17 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2942.0,100611490,22,F,1.0,1.0,0,2021-05-18 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2946.0,105435496,60,M,0.0,0.0,0.625,2021-05-18 00:00:00,,,"2.1 PNS
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2963.0,500273556,18,M,1.0,1.0,0,2021-05-19 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2967.0,500273538,24,M,1.0,1.0,0,2021-05-19 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2969.0,500273535,35,M,1.0,1.0,0,2021-05-19 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2975.0,104093768,46,M,1.0,1.0,0,2021-05-20 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2987.0,105437085,45,M,1.0,1.0,0.625,2021-05-20 00:00:00,,,"2.1 PNS
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+2988.0,500273399,35,M,0.0,0.0,1.25,2021-05-20 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+3005.0,105437311,10,M,1.0,1.0,0,2021-05-21 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Non-obstructive hydrocephalus with associated obliterated cisternal spaces and subtle leptomeningeal enhancement- ?Meningitis
+Adv: MRI Brain",Abnormal,,No,, hydrocephalus
+3009.0,500271995,38,M,1.0,1.0,0,2021-05-21 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"1) Multiple haemorrhagic contusions in the left frontal and bilateral temporal lobes and extra axial haemorrhage along the Left parieto temporal lobe as described.
+2) Fracture of right transverse processes of D1- D6 and posterior aspects of Right 2nd to 7th ribs and compression collapse of the D5 and D6 vertebral body. Fracture of right 2nd to 4th costal cartilages.
+3) Fracture of right acromion process and disruption of the acromioclavicular joint as described.",Abnormal,sinus,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3011.0,500270342,3,F,1.0,1.0,0,2021-05-21 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Left frontotemporoparietal craniotomy status. Smooth outward bulge seen on left frontal, parietal and temporal lobe through the craniotomy site.
+Fracture right frontal and parietal bone, and left occipital bone.
+Gliotic changes seen in left frontal, parietal lobe, and left basal ganglia.
+Mild communicating hydroephalous seen with asymmetric dilated right posterior horn (exvaco).
+Right subdural collection seen isodense to CSF ?chronic SDH ?subdural hygroma.",Abnormal,,Yes,Bleed-Subdural,Fracture /Subdural
+3016.0,105436849,39,M,0.0,0.0,1.25,2021-05-21 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Right gangliothalamic hemorrhage with IVH as described with midline shift of 8mm. Compared to previous CT dated 18/5/2021 no significant interval change is seen,Abnormal,"injury, tempor, lobe, ventricle, sdh, pariet",No,,Midline shift
+3017.0,500273417,21,F,1.0,1.0,0,2021-05-21 00:00:00,,,MS_AIIMS_HEAD_SPI,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,White matter hypodensities noted in bilateral high frontoparietal lobes- ?Atypical PRES,Abnormal,,No,,
+3018.0,100736032,35,M,0.0,0.0,1.25,2021-05-21 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,No e/o any intracranial bleed.,Normal,,No,,
+3019.0,105389208,65,F,1.0,0.0,0,2021-05-21 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"f/s/o non-communicating hydrocephalus as described, with punctate calcifications in the left cerebral and right cerebellar hemispheres, likely, sequalae of TB meningitis. Mild bifrontal ooze.",Abnormal,bleed,No,, hydrocephalus
+3041.0,105437085,40,M,1.0,0.0,0,2021-05-22 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Mucoperiosteal thickneing seen in b/l maxillary, frontal and sphenoid sinuses and ethmoid air cells s/o chronic pansinusitis. Mild deviated nasal septum towards left. No e/o bony erosion seen.
+
+Left MCA territory infarct
+Chronic pansinusitis",Abnormal,,No,,
+3049.0,105437793,54,F,1.0,0.0,0,2021-05-22 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study.,Normal,,No,,
+3052.0,500273700,40,F,1.0,1.0,0,2021-05-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Hemorrhagic contusions in bilateral temporal and right frontal region as described.
+Compared to previous scan, there is increase in size of the frontal and left temporal contusions.",Abnormal,,Yes,Bleed-Contusion,Bleed-Contusion
+3053.0,500273706,58,F,1.0,1.0,0,2021-05-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Small hemorrhagic contusions in left frontal lobe. SAH is in perifalcine sulci anteriorly.
+Fracture of right occipital bone extending in to foramen magnum.
+Compared to previous scan there is no significant change noted.",Abnormal,"fracture, bone, sah, tempor, lobe",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3055.0,500273729,50,F,1.0,1.0,0,2021-05-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Venous EDH along the left anterior middle cranial fossa.
+SDH along fronto-parietal region and SAH along left occipito-parietal lobes.",Abnormal,"hemorrhage, tempor",No,,
+3061.0,500268734,28,M,1.0,1.0,0.6,2021-05-23 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"post operative case of right frontoparietal EDH, present scan shows
+Large craniotomy defect in right frontoparietal region with herniation of meninges and brain parenchyma (right fronatal and parietal lobe) with resultant architectural distortion, mid line shift and extra axial hypodense collection in left frontoparietal region , likley chronic SDH.
+hypodensity in bilateral high frontoparietal region ? white matter edema",Abnormal,,No,,
+3084.0,500272727,20,M,1.0,1.0,0,2021-05-23 00:00:00,,,"TC_HeadCSPINERoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"* Subacute SDH involving left fronto-parietal and temporal areas. Compared to previous scan dated 3/5/21 there in reduction in SDH thickness, as well as midline shift (currently - 5mm).
+* Round~4 mm calcified lesion in right lentiform nucleus, likley healed inflammatory granuloma.",Abnormal,,No,,Midline shift
+3132.0,105276924,47,M,1.0,1.0,0,2021-05-25 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Non communicating hydrocephalus,Abnormal,sinus,No,, hydrocephalus
+3137.0,105438529,55,F,1.0,1.0,0,2021-05-25 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Cholelithiasis.
+Small nodule in right middle lobe.",Abnormal,,No,,
+3151.0,101453181,35,F,1.0,1.0,0,2021-05-26 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"mild cerebral edema with heterogenous basal cisterns , ? meningitis
+hypodensity in bilateral anterior temporal region and bilateral gangliocapsular region ? vasuclitis and infarct (advise : MRI brain correlation)
+IVH in right lateral ventricle
+as compared to previous scan dated 9/3/2021,
+there is subtle increase in size of IVH
+no significant change in ventricle size (evans index 0.29 on 9/3/2021, 0.31 on 10/3/2021 (present scan)",Abnormal,,No,,
+3169.0,500273399,35,M,1.0,1.0,0,2021-05-27 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"* Depressed fracture of frontal bone with underlying contusion. Multiple non lefort mid facial fractures as described.
+* Two tiny hemorrhagic contusions in superior cortex of bilateral frontal lobes
+* Hyperdense contents in temporal and occipetal horns of left lateral ventricle s/o intraventricular hemorrhage",Abnormal,"fracture, hemorrhage, sdh, sah, cerebr, focal, sinus",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3172.0,105438705,80,M,0.0,0.0,1.25,2021-05-27 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Observation is not available for this patient,,,No,,
+3176.0,500273371,27,F,1.0,1.0,0.6,2021-05-27 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Scalp laceration over the left parieto occipital region
+B/l elongated styloid process / calcified stylohyoid ligament.",Abnormal,"fracture, vertebra, rib",No,,
+3177.0,500273667,23,M,1.0,1.0,0.6,2021-05-27 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Scalp hematoma in right parietal region
+calcified granuloma present in left occipital region",Abnormal,"hydrocephalus, parenchyma, tempor",No,,
+3179.0,105437686,62,M,1.0,0.0,0.625,2021-05-27 00:00:00,,,"2.1 PNS
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Observation is not available for this patient,,,No,,
+3184.0,500274018,26,M,0.0,0.0,"2, 0.6",2021-05-27 00:00:00,,,TC_HeadCSPINE_FACERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Fracture Right zygomatic arch , right first,2nd ,third ribs , right clavicle , scapula, tranverse process pf C7 vertebra on right side with Right sided hemopnuemothorax and right lower lobe lung contusions.
+Mild subcutaneous emphysena in right chest wall extending upto the neck spaces on right side and
+mild pnemomediastinum.
+Dissection of right suclavian artery at level of thoracic inlet de to impingement of first rib fractured fragment.",Abnormal,"fracture, sinus, hernias, hemosinu",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3206.0,105438263,73,M,1.0,0.0,0,2021-05-28 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Observation is not available for this patient,,,No,,
+3227.0,105276924,47,M,1.0,1.0,0,2021-05-29 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Non-communicating hydrocephalus with reduction in size compared to previous scan (dated 23/5/2021) and ventricular shunt insitu. Scalp hematoma as described.,Abnormal,"pariet, lobe",No,, hydrocephalus
+3236.0,105438233,30,F,1.0,0.0,0.625,2021-05-29 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Observation is not available for this patient,,,No,,
+3238.0,101206171,75,F,0.0,0.0,1.25,2021-05-29 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Diffuse cerebral atrophy- Likely age related.,Abnormal,hydrocephalus,No,,
+3256.0,105301889,15M,F,1.0,1.0,0,2021-05-30 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"In a k/c/o Arnold-chiari malformation-2, current study shows,
+* Dilated bilateral lateral ventricles and third ventricle with thinning of cerebral cortex.
+* No evidence of meningitis.",Abnormal,"chronic, hematoma, cerebr",No,,
+3283.0,500270342,3,F,1.0,1.0,0,2021-05-31 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Left frontotemporoparietal craniotomy status. Smooth outward bulge seen on left frontal, parietal and temporal lobe through the craniotomy site.
+Fracture right frontal and parietal bone, and left occipital bone.
+Gliotic changes seen in left frontal, parietal lobe, and left basal ganglia.
+Mild communicating hydroephalous seen with asymmetric dilated right posterior horn (exvaco).
+Right subdural collection seen isodense to CSF ?chronic SDH ?subdural hygroma.",Abnormal,"edema, pariet, lobe, focal, lesion, tempor, bleed",Yes,Bleed-Subdural,Fracture /Subdural
+3293.0,500273938,26,M,1.0,1.0,0,2021-05-31 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Acute EDH along the left frontal lobe region.
+Fracture in left frontal bone with extension into the lateral and floor wall of left orbit and anterior wall of left maxillary, ethmoidal and sphenoid sinus.",Abnormal,,No,,Fracture
+3299.0,105439324,10,F,1.0,1.0,0,2021-05-31 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"In a k/c/o tubercular meningitis, current scan shows diffuse white matter hypodensity in both cerebral hemispheres with effacement of sulcal spaces s/o diffuse cerebral edema with hypodensities in left frontal, right occipetal , right external capsule
+SAH along few frontoparietal sulci.
+",Abnormal,,No,,
+3319.0,500274346,24,M,1.0,1.0,0,2021-06-01 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study,Normal,,No,,
+3323.0,500273929,45,M,1.0,1.0,0.6,2021-06-02 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"right parietal, squamous and longitudinal tympanic temporal bone fracture with parietal EDH
+Left temporal non haemorrhagic contusion
+right sphenoid body fracture",Abnormal,"pariet, scalp, hematoma, lacer, infarct, ganglion",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3334.0,500273895,74,M,0.0,0.0,1.25,2021-06-02 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"* Subtle hemorrhagic contusions of right parietal lobe.
+* Bilateral non-otic temporal bone and EAC fracture with hemotympanum.
+* Atlanto axial dislocation with periosteal sleeve avulsion of the medial part of left occipital condyle
+
+* Multiple rib fractures of the left thoracic cage (No flail segment formation) with underlying lung contusion laceration and suspected occult pneumothorax
+* Left transverse process fracture of the L2 and L3 vertebra.
+* Left iliac blade, superior pubic rami and unicortical ischiopubic rami fracture- Lateral compression injury of the pelvis (LC2)
+* Zone 1 unicortical injury of the left sacral ala
+* Left femur displaced oblique fracture with an undisplaced fracture of the distal fragment extending till the femoral condyle.",Abnormal,,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3337.0,105439324,10,F,0.0,0.0,1.25,2021-06-02 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"In a k/c/o tubercular meningitis, current scan shows diffuse white matter hypodensity in both cerebral hemispheres with effacement of sulcal spaces s/o diffuse cerebral edema with hypodensities in left frontal, right occipetal , right external capsule
+SAH along few frontoparietal sulci.",Abnormal,"hemorrhage, pariet, lobe, tempor, bone, fracture, rib, lung, lacer, vertebra, injury",No,,
+3339.0,105437644,45,M,1.0,0.0,0.625,2021-06-02 00:00:00,,,"2.1 PNS
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Observation is not available for this patient,,,No,,
+3361.0,105437644,45,M,1.0,1.0,0,2021-06-03 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Observation is not available for this patient,,,No,,
+3363.0,105436849,39,M,1.0,1.0,0,2021-06-03 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"In a k/c/o right gangliothalamic bleed (post 1 month), current scan shows Glio encephalomalacic changes in right gangliothalamic region with associated white matter edema
+",Abnormal,"bone, lobe, sah, sdh, fracture, hemosinu, sinus, injury, lacer",No,,
+3386.0,500274242,80,M,1.0,1.0,0,2021-06-04 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Bilateral rib fractures with lung contusions in right upper and lower lobe
+Right greater trochanter fracture with hematoma formation",Abnormal,,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3390.0,105301889,15M,F,1.0,1.0,0,2021-06-04 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Status post left craniotomy with moderate hydrocephalus with ventriculitis. Ventriculostomy in situ with edema in right frontal lobe along ventriculostomy catheter. Diffuse pachymeningeal enhancement.
+Large extra axial fluid collection with multiple air foci along left cereral hemisphere causing mass effect on left cerebral hemisphere and effacement of anterior horn of left lateral ventricle - ?post op collection/subdural effusion.",Abnormal,,Yes,Bleed-Subdural,Bleed-Subdural
+3398.0,500274565,14,M,1.0,1.0,0,2021-06-04 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,".Fracture of the bilateral frontal bone with parenchymal contusions , air-foci in the left frontal lobe with adjacent SAH ,SDH along the falx.
+Lefort type 2 fractures of face with bilateral hemosinus of ethmoid and maxillary sinus, orbital fractures as described.
+Preseptal soft tissue injury of bilateral orbits with hyperdense, thickened preseptal soft tissue with air foci
+Multiple parenchymal lacerations in the upper and mid-pole of spleen - grade 3 splenic injury
+parenchymal lacerations in the upper and lower pole of the left kidney.the upper pole lacerations are extending into the collecting system with small perirenal collection-Grade 4 left renal injury
+Collapse of the left lower lobe - with patchy consolidation in the posterobasal segments of the right lower lobe.
+Fracture of the left coracoid process of scapula and linear fracture of the left glenoid.",Abnormal,,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3399.0,500265806,69,F,1.0,1.0,0,2021-06-04 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study,Normal,,No,,
+3426.0,500274728,40,M,1.0,1.0,"2, 0.6",2021-06-05 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Observation is not available for this patient,,,No,,
+3427.0,105440889,15,F,1.0,1.0,0,2021-06-05 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"VP shunt tip in right frontal horn approximating the posteroinferior wall with minimal hydrocephalus
+No evidence of any periventriocular ooze",Abnormal,"tempor, lesion, lobe, edema, brain",No,, hydrocephalus
+3437.0,500274325,61,M,1.0,1.0,0,2021-06-05 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study,Normal,,No,,
+3438.0,100863462,64,F,0.0,0.0,1.25,2021-06-05 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Multiple chronic infarcts as described above.
+Hypodensity in the left caudate body- sequalae of previous hemorrhage.
+No fresh area of haemorrhage noted.",Abnormal,,No,,
+3441.0,500274653,52,M,1.0,1.0,0,2021-06-05 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Compared with previous NCCT Head, current scan shows progression of SDH, new onsett of intraparenchymal bleed and IVH.",Abnormal,"chronic, infarct, bleed, haemorrhag",No,,
+3451.0,105436849,39,M,1.0,1.0,0,2021-06-06 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Right gangliothalamic hemorrhage with IVH as described with midline shift of 8mm,Abnormal,"fracture, bone, pariet, hemorrhage, sah, bleed, ventricle, sdh, scalp, hematoma, trauma, injury, cervical, spine",No,,Midline shift
+3477.0,500274653,52,M,1.0,1.0,0,2021-06-06 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"1. SDH thickness along right cerebral convexity with extension along falx. SAH in bilateral basifrontal and left temporal sulci with occiptal bone fracture and right longitudinal petrous temporal bone fracture.
+2. No trauma related injury in cervical spine or torso",Abnormal,,No,,Cervical spine / Fracture
+3495.0,500274629,14,M,1.0,1.0,0,2021-06-07 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study,Normal,,No,,
+3502.0,105439324,10,F,0.0,0.0,1.25,2021-06-07 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"In a k/c/o tubercular meningitis, current scan shows diffuse white matter hypodensity in both cerebral hemispheres with effacement of sulcal spaces s/o diffuse cerebral edema with hypodensities in left frontal, right occipetal , right external capsule
+SAH along few frontoparietal sulci.",Abnormal,"fracture, hemosinu, sinus",No,,
+3507.0,500274720,16,M,1.0,1.0,0.6,2021-06-07 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study,Normal,,No,,
+3530.0,500274884,26,M,1.0,1.0,0,2021-06-08 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Mulitple maxillo-facial and mandibular fractures (including Le fort 1, 2 on both sides) with hemosinus within bilateral frontal and maxillary sinuses as described.
+Pneumocephalous also noted.",Abnormal,fracture,No,,Fracture
+3533.0,500274871,66,M,1.0,1.0,0,2021-06-08 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"* Right sided SAH with subdural hematoma with hemorrhagic contusion seen in the right temporal, parital and frontal lobe with longitudinal fracture of the left petrous temporal bone with opcification of the left EAC, mastoid air cells and middle ear cavity (hemotympanum)
+* Left sided rib fractures- Anteriorly 2rd-8th ribs and posteriorly 4th-8th leading to formation of flail segment with bilateral mild hemothorax (Left >right)
+*Compression fracture of the D12 and L1 vertebral body along with Fracture of the left transverse process of L2 vertebra with spinous process fracture of D6.
+* Multiple tortuous vascular channels seen in the right costophrenic sulcus with a dilated interlobar artery as the feeder- ?Pulmonary AVM
+",Abnormal,"fracture, hemosinu, sinus",Yes,Bleed-Subdural,Fracture /Subdural
+3539.0,104920615,25,M,1.0,1.0,0,2021-06-08 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,Normal study,Normal,,No,,
+3541.0,105437260,44,F,1.0,0.0,0.625,2021-06-08 00:00:00,,,"2.1 PNS
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"In a k/c/o left rhino orbital mucormycosis , present scan shows
+Areas of enhancing soft tissue in left orbit and areas of heterogenous dense soft tissue components in right frontal, sphenoid , ethmoid and maxillary sinus f/s/o post op changes in left orbit with likely residual disease in left side sinuses.
+The left cavernous sinus shows filling deftect with bulding lateral borders s/o left cavernous thrombosis.
+There are multiple hypodense areas in left centrum semiovale s/o old left MCA territory infarcts.",Abnormal,,No,,
+3573.0,100863462,64,F,0.0,0.0,1.25,2021-06-09 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Multiple chronic infarcts as described above.
+Hypodensity in the left caudate body- sequalae of previous hemorrhage.
+No fresh area of haemorrhage noted.",Abnormal,"pariet, tempor, bone, hemosinu, hematoma",No,,
+3581.0,105441801,73,M,0.0,0.0,1.25,2021-06-09 00:00:00,,,"1.2 AIIMS RD HEAD SPIRAL
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Age related cerebral atrophy
+No intracranial hemorrhage or infarct",Abnormal,,No,,
+3605.0,105395719,58,M,1.0,1.0,0,2021-06-10 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Hypodense CSF density area in retrocerebellar location with remodelling of occipital bone likely posterior fossa Arachnoid cyst/ giant cisterna magna
+Pineal gland cyst
+Age related brain atrophy",Abnormal,,No,,
+3608.0,500272573,27,M,1.0,1.0,0.6,2021-06-10 00:00:00,,,"TC_HeadCSPINERoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Old facial and calvarial fractures with pneumocephalus.
+Illdefined hypodensity in right frontal region? old contusion",Abnormal,"bone, brain, atrophy",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3610.0,500274498,40,M,1.0,1.0,0,2021-06-10 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Haemorrhagic contusion in the right basifrontal and anterior limb of the left Internal Capsule with
+bilateral high parietal and left high frontal SAH.
+
+Right sided Le fort type I, II, III fracture with fracture of anterior, medial and lateral walls of maxillary sinus, lesser sphenoid wing and zygoma.
+Fracture of the sphenoid sinus walls, intersphenoid bony septum, left posterolateral orbital wall, bilateral nasal bones and nasal septum.
+
+Bilateral ethmoid, maxillary and sphenoid and right frontal hemosinus.
+?Left hemotympanum",Abnormal,"scalp, hematoma, pariet, infarct, tempor, lobe",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+3639.0,500275058,1,M,1.0,1.0,0.6,2021-06-11 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Scalp hematoma overlying the bilateral posterior parietal region.
+No other trauma related changes.",Abnormal,fracture,No,,
+3641.0,105439902,85,M,0.0,0.0,0.625,2021-06-11 00:00:00,,,"1.3 HEAD - fast one rotation-for noncoopertaive pts
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Report Pending,Abnormal,"fracture, bone",No,,
+3647.0,105437644,45,M,1.0,0.0,0,2021-06-11 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Observation is not available for this patient,,,No,,
+3653.0,500274935,86,M,0.0,0.0,1.25,2021-06-11 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Focal hypodensity in posterior limb of right internal capsule - likely represents old infarct
+Diffuse age related cerebral atrophy",Abnormal,"effacement, cerebr, edema",No,,
+3671.0,105442962,12,F,0.0,0.0,1.25,2021-06-12 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+3676.0,105438133,45,F,1.0,0.0,0,2021-06-12 00:00:00,,,"1.1 CECT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+3678.0,105439823,51,M,1.0,0.0,0,2021-06-12 00:00:00,,,"1.1 CECT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+3681.0,500009660,22,M,0.0,0.0,0.625,2021-06-12 00:00:00,,,"10.1 HEAD ROUTINE TRAUMA
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500275096,51,M,1.0,1.0,0.6,2021-06-13 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,100863462,64,F,1.0,1.0,0,2021-06-13 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105439660,47,F,1.0,1.0,0,2021-06-14 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105440889,15,F,1.0,1.0,0,2021-06-14 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105437777,67,F,1.0,0.0,0,2021-06-14 00:00:00,,,"1.1 CECT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500274498,58,M,1.0,1.0,0,2021-06-14 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500275411,60,M,1.0,1.0,0,2021-06-14 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500273832,18,F,1.0,1.0,0.6,2021-06-15 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105438904,50,F,0.0,0.0,1.25,2021-06-15 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105438429,13,F,1.0,1.0,0,2021-06-15 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105438023,71,M,1.0,1.0,0,2021-06-16 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105436849,39,M,0.0,0.0,1.25,2021-06-18 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105437644,45,M,1.0,1.0,0,2021-06-18 00:00:00,,,"2.1 PNS
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500272770,44,M,1.0,1.0,0,2021-06-18 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105445751,15,F,1.0,1.0,0,2021-06-18 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105441447,21,F,1.0,1.0,0,2021-06-19 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105442569,14,M,1.0,1.0,0,2021-06-19 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,104860795,73,F,0.0,1.0,1.25,2021-06-20 00:00:00,,,"1.7 Fast Head Helical
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105447016,31,M,1.0,1.0,0,2021-06-20 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105444504,38,M,1.0,1.0,0,2021-06-20 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500274346,24,M,1.0,1.0,0,2021-06-21 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105437577,42,F,0.0,1.0,1.25,2021-06-21 00:00:00,,,"1.7 Fast Head Helical
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105449753,30,M,1.0,1.0,0,2021-06-21 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500264395,40,M,1.0,1.0,0,2021-06-21 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105447016,31,M,1.0,1.0,0,2021-06-22 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105437644,45,M,1.0,0.0,0,2021-06-22 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276199,30,M,1.0,1.0,0,2021-06-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276156,7,M,1.0,1.0,0,2021-06-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500273700,40,F,1.0,1.0,0,2021-06-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276183,30,M,1.0,1.0,0,2021-06-22 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105437088,32,M,1.0,1.0,0,2021-06-23 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276183,30,M,1.0,1.0,0,2021-06-23 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276199,30,M,1.0,1.0,0.6,2021-06-23 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276277,62,M,1.0,1.0,0,2021-06-23 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276272,18,M,1.0,1.0,0,2021-06-23 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,101294854,40,M,1.0,1.0,0,2021-06-23 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105442097,70,F,1.0,1.0,0,2021-06-23 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105301889,15M,F,1.0,1.0,0,2021-06-24 00:00:00,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105444412,28,F,1.0,1.0,0,2021-06-24 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105449678,26,F,1.0,1.0,0,2021-06-24 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105440889,15,F,0.0,0.0,1.25,2021-06-24 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105437727,12,F,1.0,1.0,0,2021-06-24 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,104935630,20,M,1.0,1.0,0,2021-06-24 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105436990,57,M,1.0,1.0,0,2021-06-24 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105428227,33,F,1.0,0.0,0,2021-06-25 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105451528,70,F,1.0,1.0,0,2021-06-26 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Area of hypodensity is seen involving cortex and white matter in left parietotemporal lobes with loss of grey-white matter differentiation. Gyral hyperdensity is seen. Mass effect is seen in form of effacement of overlying cortical sulci, effacement of ipsilateral lateral ventricle and midline shift of 6mm towards right side.
+Ill defined hypodensity is also seen involving left inferior cerebellar hmeisphere.
+
+Impression: Subacute infarct left MCA territory with midline shift as described
+Left inferior cerebellar infarct.",Abnormal,,No,,Midline shift
+,105444412,28,F,1.0,1.0,0,2021-06-26 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Right sided extra axial and intra axial pneumocephalus as described with right sided intraventricular bleed, post VP shunting.
+
+Two small pockets of air noted in the right sided anterior extra axial location and air is also noted in the right temporal horn.
+Hyperintensity noted in the posterior horn of right lateral ventricle in dependent location, likely intraventricular bleed, iatrogneic after VP shunting.
+Ventriculoperitoneal shunt seen insitu in the right lateral ventricle.",Abnormal,"ventricle, hydrocephalus",Yes,Bleed-Intraventricular,Bleed-Intraventricular
+,105441083,7W,F,1.0,1.0,0,2021-06-26 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Follow up case of subdural empyema above study reveals -
+Residual enhancing subdural empyema along the right frontal convexity as described s/o of partial response.
+
+Extraxaial fluid attenuation SDH is seen with enhancing wall on the right frontal convexity as well along the anterior IHF s/o subdural empyema.No obvious underlying brain parenchymal enahncement is seen.
+Compare with previous study dated on 9/6/21 the subdural empyema is mild decrease in width s/o of partial response.",Abnormal,"bone, fracture",Yes,Bleed-Subdural,Bleed-Subdural
+,500275079,19,M,1.0,1.0,0,2021-06-26 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"- Fracture of left pterygoid process with seperation of left naso-frontal suture, fracture of anterior, lateral, medial and posterior walls of left maxillary sinuses, fracture lateral wall of left orbit, left inferior orbital rim, left zygoma - Left side Le Fort type 2 and 3 fractures.
+- Fracture anterior and medial walls of right maxillary sinus.
+- Bilateral nasal bone fracture.
+- Compared to previous scan dated 9-6-2021, hematoma and subcutaneous emphysema over left orbit and left masseter muscle and bilateral maxillary hemosinus have been resolved.",Abnormal,,No,,Fracture
+,100404845*,40,M,1.0,1.0,0,2021-06-26 00:00:00,,,MS_AIIMS_HEAD_SEQ,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500275757,18,F,1.0,1.0,0,2021-06-26 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105447016,31,M,1.0,1.0,0,2021-06-27 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"K/c/o hemophilia A with SDH along the left cerebral hemisphere with midline shift of 1.4mm towards right.( As compared to previous scan dated 20.06.21, there is resolution ,with improvement in midline shift.
+- Diffuse left cerebral edema with compression of the ipsilateral lateral ventricle.
+
+SDH noted along the left frontal, parietal and occipital regions with amaximum thickness of 7mm, causing effacement of the left lateral ventricle with a midline shift of ~1.5 mm towards right side.
+Diffuse cerebral edema with eaffacement of the sulcal spaces noted involving the left cerebral hemisphere.",Abnormal,,No,,Midline shift
+,500276344,25,M,1.0,1.0,0,2021-06-27 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"1.Small acute SDH in left frontal region with maximum thickness of 5 mm.
+2.Sulcal SAH and hemorrhagic contusions with surrounding perilesional edema seen in left frontal region.
+3.Linear undisplaced fracture of squamous part of occipital bone on right side, extending anteriorly to involve right side of basiocciput, right jugular tubercle, close to right hypoglossal canal.
+4. Old fracture right lamina of C2.
+Fracture of right T.P of C7. Fracture visualised part of right 1st rib.",Abnormal,"scalp, hematoma, pariet, fracture, injury, sinus",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+,500276770,25,M,1.0,1.0,0,2021-06-28 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105437577,42,F,1.0,0.0,0,2021-06-28 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105418143,55,M,1.0,1.0,0,2021-06-28 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276651,33,M,1.0,1.0,0,2021-06-29 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276830,40,M,1.0,1.0,0,2021-06-29 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500276850,15,M,1.0,1.0,0,2021-06-29 00:00:00,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105437740,28,F,1.0,1.0,0,2021-06-30 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105449330,18,F,1.0,1.0,0,2021-06-30 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105428227,33,F,1.0,0.0,0,2021-06-30 00:00:00,,,"1.2 NCCT Head Seq.
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105451702,60,M,0.0,0.0,"2.4, 4.8",2021-06-30 00:00:00,,,MS_AIIMS_HEAD_SEQ,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,103821159,23,M,0.0,0.0,1.25,2021-06-30 00:00:00,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105435921,9,M,1.0,1.0,0,2021-06-30 00:00:00,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500283588,30,M,1.0,1.0,0,3-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,102569118,30,F,0.0,0.0,1.25,3-Sept-2021,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105547297,58,M,1.0,1.0,0,3-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500283746,75,F,1.0,1.0,0,3-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500283987,13,M,1.0,1.0,0.6,4-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500283587,72,F,1.0,1.0,0,4-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500283870,12,F,1.0,1.0,0,4-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500284027,78,M,1.0,1.0,0,6-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Fractures in walls of right orbit, right greater wing of sphenoid, right temporal bone, right zygomatic arch, bilateral nasal bones, roof of right ethmoid sinus
+Hemosinus in right maxillary and right ethmoid sinuses
+EDH measuring 6mm along right temporal lobe., SDH along posterior falx  and both tentorial leaves measuring upto 6mm on left side , thin SDH along left calvarial convexity with IVH
+Hemorrhagic contusions in bilateral temporal lobes with associated SAH on left side .
+as compared to scan dated 5/9/2021, no significant interval change.",Abnormal,,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+,105554640,50,M,1.0,1.0,0,6-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Age related barin atrophy.
+No intracranial bleed seen.
+Calcified granuloma along falx in anterior parasagittal location.",Abnormal,"fracture, tempor, bone, sinus, hemosinu, edh, sdh, hemorrhage, lobe, sah",No,,
+,105538943,36,M,1.0,1.0,0,6-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"There is a intraparenchymal hemorrhage of size 6.9 x 3.9 cm in right parieto-temporal region with surrounding edema. There is also intraventricular extension into body of right lateral ventricle.
+There is mass effect in form of midline shift of 8 mm to left side. There is also effacement of right lateral ventricle and effacement of sulci right cerebral hemisphere. Right descending transtentorial herniation also present.
+
+Intraparenchymal hemorrhage right parieto-temporal region with intraventricular extension into right lateral ventricle with mass effect, midline shift and uncal herniation as described above.",Abnormal,,Yes,Bleed-Intraventricular,Midline shift /Intraventricular
+,105552468,76,F,1.0,1.0,0,6-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"* Intra cerebellar bleed measuring 3.1x3 cm (APxTra) in the right side with surrounding vasogenic edema and mild effacement of the fourth ventricle.
+* Age related atrophy of the brain parenchyma.
+Note made of sclerotic calvarial thickening",Abnormal,"bleed, edema, ventricle, effacement, cerebr, hernias",No,,
+,500284027,78,M,1.0,1.0,0,6-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Fractures in walls of right orbit, right greater wing of sphenoid, right temporal bone, right zygomatic arch, bilateral nasal bones, roof of right ethmoid sinus
+Hemosinus in right maxillary and right ethmoid sinuses
+EDH measuring 6mm along right temporal lobe., SDH along posterior falx  and both tentorial leaves measuring upto 6mm on left side , thin SDH along left calvarial convexity with IVH
+Hemorrhagic contusions in bilateral temporal lobes with associated SAH on left side .
+as compared to scan dated 5/9/2021, no significant interval change.",Abnormal,,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+,500284186,68,M,1.0,1.0,0,7-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Left frontal bone fracture involving anterior and posterior walls of left frontal sinus, medial wall of orbit, nasal bone with hemosinus.
+Intraparenchymal bleed in right frontoparietal, left high frontal, right temporal regions measuring ~5.9 x 3.2 cm
+Midline shift of ~5 mm towards left
+SAH in right sylvian fissure, right frontoparietal sulci.
+IVH in fourth ventricle
+On comparison with previous CT dated 7/9/21, no significant change in midline shift noted.",Abnormal,"cerebr, atrophy",No,,Midline shift / Fracture
+,105482904,4,F,1.0,1.0,0,8-Sept-2021,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Symmetric hypodensities in bilateral caudate nuclei and putamen
+These are new findings compared to the CT dated 4th sep 2021.
+?Hypoxic injury
+Needs further evaluation with MRI brain",Abnormal,"fracture, vertebra",No,,
+,105535387,52,M,1.0,1.0,0,8-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Hypodensity noted in bilateral basal ganglia extending to periventricular white matter s/o gliotic changes.
+",Abnormal,,No,,
+,500284284,43,M,1.0,1.0,0,8-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Left parietal bone fracture with EDH
+Left (mixed, non otic capsule violating) petrous temporal bone fracture with hemotympanum
+Basisphenoid farcture ( and anterior wall of left carotid canal) with sphenoid hemosinus
+Hemorrhagic contusion along right cerebral convexity(likely contre coup)
+As compared to the previous scan dated 07.09.2021, there is significant reduction in the edema associated with the hemorrhagic contusion in the righ temporal lobe.
+
+There is Mixed(transverse as well as longitudinal) fracture of left temporal bone ( petrous and mastoid).Ossicular continuity is maintained.
+(Non otic capsule violating)
+There is opacification of all the mastoid air cells and middle ear s/o hemotympanum
+Fracture extending along the entire skull base ( involving the basisphenoid, at attachment of vomer and reaching posteriorly upto the anterior and medial aspect of left carotid canal).There is associated sphenoid hemosinus.
+There is fracture of the left parietal bone with associated EDH ~ 10mm in max thickness.
+Hemorraghic contusion seen at the cerebral convexity in the right fronto parieto temporal region.(? contre coup injury)",Abnormal,,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+,500215572,28,M,1.0,1.0,0.6,9-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Post craniopasty status on right side with grossly dilated lateral(~56mm TRA) and third ventricles(~34 mm TRA) compared to 4 th ventricle with periventricle ooze.
+Shunt insitu with tip in left lateral ventricle.
+Old gliotic chnages are seen in left frontal,right frontal, temporal and parietal lobes.
+Midline shift of 3.5mm
+Discontinuity is seen at multiple point in right pareital,frontal and temporal bone.
+
+Noncommunicating moderate hydrocephalus, periventricle ooze and old areas of gliosis, IV shunt as described with post carnioplasty status ? shunt failure
+
+On compare to previous CT dated on 9/9/2021, gross distension of bilateral lateral ventricle.",Abnormal,,No,,Midline shift
+,500284186,68,M,1.0,1.0,0,10-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Left frontal bone fracture involving anterior and posterior walls of left frontal sinus, medial wall of orbit, nasal bone with hemosinus.
+Intraparenchymal bleed in right frontoparietal measuring ~5.9 x 3.2 cm, left high frontal, right temporal regions
+Midline shift of ~5 mm towards left
+Other small foci of bleed seen in left high frontal, right temporal regions.
+SAH in right sylvian fissure, right frontoparietal sulci.
+IVH in fourth ventricle
+On comparison with previous CT dated 7/9/21, no significant change in midline shift noted.",Abnormal,,No,,Midline shift / Fracture
+,105563661,46,F,1.0,1.0,0,11-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Normal brain study.
+",Normal,,No,,
+,500273128,24,M,0.0,0.0,0.625,12-Sept-2021,,,"10.3 Head C.Spine TRAUMA
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,Old depressed fracture of the right parietal bone with associated glio-encephalomalacic changes in the right temporal and parietal cerebral parenchyma,Abnormal,,No,,Fracture
+,105362972,12,M,0.0,0.0,1.25,12-Sept-2021,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"In k/c/o NCC ,present scan shows
+Well defined single ring enhancing lesion (~9x 6mm) in right frontal lobe with tiny eccenteric hyperdense focus within with no significant perilesional oedema s/o granular nodular stage of NCC.",Abnormal,"hemorrhage, tempor, lobe, ganglion, pariet, cerebr, parenchyma, sdh, focal, sah, hemosinu",No,,
+,105437260,44,F,0.0,0.0,1.25,12-Sept-2021,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"In a k/c/o left rhino orbital mucormycosis , present scan shows
+Areas of enhancing soft tissue in left orbit and areas of heterogenous dense soft tissue components in right frontal, sphenoid , ethmoid and maxillary sinus f/s/o post op changes in left orbit with likely residual disease in left side sinuses.
+The left cavernous sinus shows filling deftect with bulding lateral borders s/o left cavernous thrombosis.
+There are multiple hypodense areas in left centrum semiovale s/o old left MCA territory infarcts.",Abnormal,,No,,
+,101909758,15,M,1.0,1.0,0,13-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Eccentric calcified nodule of size ~6.2 mm with hyperdense rim in the right high parietal location with hypodensity in the surrounding white matter, s/o perilesional edema, likely neurocysticercosis in granular nodular stage.
+In comparison to previous scan dated 9/9/21, there is reduction in size of the lesion.",Abnormal,"trauma, injury",No,,
+,500215572,28,M,1.0,1.0,0.6,13-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Post craniopasty status on right side with grossly dilated lateral(~56mm TRA) and third ventricles(~34 mm TRA) compared to 4 th ventricle with periventricle ooze.
+Shunt insitu with tip in left lateral ventricle.
+Old gliotic chnages are seen in left frontal,right frontal, temporal and parietal lobes.
+Midline shift of 3.5mm
+
+Noncommunicating moderate hydrocephalus, periventricle ooze and old areas of gliosis, IV shunt as described with post carnioplasty status ? shunt failure
+On compare to previous CT dated on 9/9/2021, gross distension of bilateral lateral ventricle. .",Abnormal,,No,,Midline shift
+,105463464,37,F,0.0,0.0,"2.4, 4.8",13-Sept-2021,,,MS_AIIMS_HEAD_SEQ,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Normal study
+",Normal,,No,,
+,500284822,49,M,0.0,0.0,1.25,13-Sept-2021,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"1)Multiple hemorrhagic contusions at the grey white matter in bilateral fronto-parietal and left temporal cerebral parenchyma and in the genu of the corpus callosum s/o Diffuse axonal injury
+2)Focal SAH in the left cerebral parenchyma and bilateral ambient cistern with intraventricular hemorrhage
+3)SDH along the right temporal cerebral parenchyma ~0.5 cm in size
+4)Fracture of the roof of the right orbit, right zygomatic arch, right lamina papyracea .
+5)Bilateral ethmoid and right maxillary hemosinus is present.
+6) Soft tissue swelling over the pre-septal region of the eye with fracture of the roof of the right orbit, right zygomatic arch and right lamina papyracea
+7) Hepato-spleenomegaly with mild free fluid in the abdomen.",Abnormal,,Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+,105565560,58,M,0.0,0.0,1.25,13-Sept-2021,,,"1.1 AIIMS RD HEAD ROUTINE
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,"Mild age related cerebral atrophic changes
+",Abnormal,"fracture, hernias",No,,
+,500284822,49,M,1.0,1.0,0,14-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,"Multiple hemorrhagic contusions are seen at the grey white matter in bilateral froto-parietal and left temporal cerebral parenchyma and in the genu of the corpus callosum.
+Focal SAH in the left frontal, parietal and temporal cerebral parenchyma and along the bilateral ambient cistern.
+Intraventricular hemorrhage in occipetal horns of bilateral lateral ventricles.
+SDH along the right temporal cerebral parenchyma ~0.5 cm in size with focus of penumocephalus.
+Soft tissue swelling over the pre-septal region of the eye.
+Fracture of the roof of the right orbit, right zygomatic arch, right lamina papyracea .
+Soft tissue heterogeneity and air foci are seen in the right orbit. 
+
+1)Multiple hemorrhagic contusions at the grey white matter in bilateral fronto-parietal and left temporal cerebral parenchyma and in the genu of the corpus callosum s/o Diffuse axonal injury
+2)Focal SAH in the left cerebral parenchyma and bilateral ambient cistern with intraventricular hemorrhage
+3)SDH along the right temporal cerebral parenchyma
+4) Soft tissue swelling over the pre-septal region of the eye with fracture of the roof of the right orbit, right zygomatic arch and right lamina papyracea
+5) Hepato-spleenomegaly with mild free fluid in the abdomen.",Abnormal,"bleed, ganglion, lobe, edema, hernias, effacement, ventricle",Yes,Bleed-Contusion,Fracture / Bleed-Contusion
+,500284606,56,M,1.0,1.0,0,15-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,104763740,8,M,0.0,0.0,0.625,15-Sept-2021,,,"1.3 HEAD - fast one rotation-for noncoopertaive pts
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500285037,27,F,1.0,1.0,0,15-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105479846,40,F,1.0,1.0,0,16-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105550008,74,M,1.0,1.0,0,17-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105255084,14,M,1.0,0.0,3,17-Sept-2021,,,MS_AIIMS_SINUS,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105409974,20,F,1.0,1.0,0,17-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500216528,23,M,1.0,1.0,"0.6, 2",18-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500285297,40,F,0.0,0.0,"1.25, 0.625",18-Sept-2021,,,"1.29 AIIMS RD PNS
+",GE MEDICAL SYSTEMS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105378485,3,F,0.0,0.0,"2.4, 4.8",18-Sept-2021,,,MS_AIIMS_HEAD_SEQ,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105479657,57,M,1.0,0.0,0,18-Sept-2021,,,01_IRCH_HEAD_Spi,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500284186,68,M,1.0,1.0,0,19-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105509621,24,F,1.0,1.0,0,19-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105576797,33,M,1.0,1.0,0,19-Sept-2021,,,AIIMS_DF_SinusVol,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105542480,24,F,1.0,1.0,0,19-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105492844,35,F,1.0,1.0,0,20-Sept-2021,,,"AIIMS_DF_HeadRoutineSeq
+",Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,105529197,27,F,1.0,1.0,0,20-Sept-2021,,,AIIMS_DF_HeadRoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500285530,13,M,1.0,1.0,0.6,20-Sept-2021,,,TC_HeadCSPINERoutineSeq,Siemens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,500265806,69,F,1.0,1.0,0.6,,,,TC_HeadCSPINERoutineSeq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+,104763740,9,M,1.0,1.0,0,,,,AIIMS_DF_HeadRoutineSeq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
